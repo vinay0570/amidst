@@ -1,0 +1,1001 @@
+Name,Year,Directors,#directors,#genres,DecadeofRelease,Certified,Duration(min),Ratings,Votes,LikePrediction(%),Gross(millionsUS$)
+The Father (I),2020,Florian Zeller,1,1,2020,UA,97,8.3,72241,88.0,
+The Shawshank Redemption,1994,Frank Darabont,1,1,1990,A,142,9.3,2409586,80.0,28.34
+Once Upon a Time... in Hollywood,2019,Quentin Tarantino,1,2,2010,A,161,7.6,591159,83.0,142.5
+The Big Lebowski,1998,"Joel Coen, Ethan Coen",2,3,1990,UA,117,8.1,749729,71.0,17.5
+Joker,2019,Todd Phillips,1,3,2010,A,122,8.4,1013605,59.0,335.45
+Raiders of the Lost Ark,1981,Steven Spielberg,1,2,1980,A,115,8.4,901293,85.0,248.16
+The Godfather,1972,Francis Ford Coppola,1,2,1970,A,175,9.2,1667300,100.0,134.97
+Titanic,1997,James Cameron,1,2,1990,UA,194,7.8,1074306,75.0,659.33
+Gisaengchung,2019,Bong Joon Ho,1,3,2010,A,132,8.6,620854,96.0,53.37
+Thor: Ragnarok,2017,Taika Waititi,1,3,2010,UA,130,7.9,620078,74.0,315.06
+Interstellar,2014,Christopher Nolan,1,3,2010,UA,169,8.6,1570854,74.0,188.02
+The Dark Knight,2008,Christopher Nolan,1,3,2000,UA,152,9.0,2368467,84.0,534.86
+Knives Out,2019,Rian Johnson,1,3,2010,UA,130,7.9,498796,82.0,165.36
+Flipped (I),2010,Rob Reiner,1,3,2010,PG,90,7.7,83984,45.0,1.75
+Pulp Fiction,1994,Quentin Tarantino,1,2,1990,A,154,8.9,1871130,94.0,107.93
+Druk,2020,Thomas Vinterberg,1,2,2020,PG,117,7.8,85019,80.0,
+Back to the Future,1985,Robert Zemeckis,1,3,1980,U,116,8.5,1087937,87.0,210.61
+Gladiator,2000,Ridley Scott,1,3,2000,UA,155,8.5,1373278,67.0,187.71
+Hamilton,2020,Thomas Kail,1,3,2020,PG,160,8.4,66733,90.0,
+Avengers: Infinity War,2018,"Anthony Russo, Joe Russo",2,3,2010,UA,149,8.4,887395,68.0,678.82
+Shutter Island,2010,Martin Scorsese,1,2,2010,A,138,8.2,1167555,63.0,128.01
+Forrest Gump,1994,Robert Zemeckis,1,2,1990,UA,142,8.8,1861623,82.0,330.25
+No Country for Old Men,2007,"Ethan Coen, Joel Coen",2,3,2000,PG,122,8.1,881776,91.0,74.28
+Dazed and Confused,1993,Richard Linklater,1,1,1990,U,102,7.6,170720,78.0,7.99
+Tombstone,1993,"George P. Cosmatos, Kevin Jarre",2,3,1990,UA,130,7.8,131269,50.0,56.51
+Sound of Metal,2019,Darius Marder,1,2,2010,PG,120,7.8,93362,82.0,
+Guardians of the Galaxy,2014,James Gunn,1,3,2010,UA,121,8.0,1069530,76.0,333.18
+Inglourious Basterds,2009,Quentin Tarantino,1,3,2000,A,153,8.3,1304869,69.0,120.54
+Saving Private Ryan,1998,Steven Spielberg,1,2,1990,A,169,8.6,1268625,91.0,216.54
+The Goonies,1985,Richard Donner,1,3,1980,U,114,7.8,250276,62.0,61.5
+The Departed,2006,Martin Scorsese,1,3,2000,A,151,8.5,1218575,85.0,132.38
+Blade Runner 2049,2017,Denis Villeneuve,1,3,2010,UA,164,8.0,482439,81.0,92.05
+The Matrix,1999,"Lana Wachowski, Lilly Wachowski",2,2,1990,A,136,8.7,1718623,73.0,171.48
+Harry Potter and the Deathly Hallows: Part 2,2011,David Yates,1,3,2010,UA,130,8.1,786564,85.0,381.01
+Goodfellas,1990,Martin Scorsese,1,3,1990,A,146,8.7,1047855,90.0,46.84
+Harry Potter and the Goblet of Fire,2005,Mike Newell,1,3,2000,UA,157,7.7,563103,81.0,290.01
+Django Unchained,2012,Quentin Tarantino,1,2,2010,A,165,8.4,1396446,81.0,162.81
+Watchmen,2009,Zack Snyder,1,3,2000,A,162,7.6,518257,56.0,107.51
+The Silence of the Lambs,1991,Jonathan Demme,1,3,1990,A,118,8.6,1304763,85.0,130.74
+Se7en,1995,David Fincher,1,3,1990,A,127,8.6,1484535,65.0,100.13
+The Avengers,2012,Joss Whedon,1,3,2010,UA,143,8.0,1286593,69.0,623.28
+Bohemian Rhapsody,2018,Bryan Singer,1,3,2010,UA,134,7.9,473082,49.0,216.43
+Green Book,2018,Peter Farrelly,1,3,2010,UA,130,8.2,409402,69.0,85.08
+Alien,1979,Ridley Scott,1,2,1970,R,117,8.4,806763,89.0,78.9
+Deadpool,2016,Tim Miller,1,3,2010,R,108,8.0,927369,65.0,363.07
+Mystic River,2003,Clint Eastwood,1,3,2000,A,138,7.9,428210,84.0,90.14
+Scarface,1983,Brian De Palma,1,2,1980,A,170,8.3,762712,65.0,45.6
+The Green Mile,1999,Frank Darabont,1,3,1990,UA,189,8.6,1179286,61.0,136.8
+Apocalypse Now,1979,Francis Ford Coppola,1,3,1970,R,147,8.4,619561,94.0,83.47
+American Beauty,1999,Sam Mendes,1,1,1990,UA,122,8.3,1088442,84.0,130.1
+Arrival (II),2016,Denis Villeneuve,1,2,2010,UA,116,7.9,616943,81.0,100.55
+Harry Potter and the Prisoner of Azkaban,2004,Alfonso Cuarón,1,3,2000,U,142,7.9,567393,82.0,249.36
+The Shining,1980,Stanley Kubrick,1,2,1980,A,146,8.4,922316,66.0,44.02
+Mad Max: Fury Road,2015,George Miller,1,3,2010,UA,120,8.1,907683,90.0,154.06
+Skyfall,2012,Sam Mendes,1,3,2010,UA,143,7.7,640050,81.0,304.36
+There Will Be Blood,2007,Paul Thomas Anderson,1,1,2000,A,158,8.2,532208,93.0,40.22
+Call Me by Your Name,2017,Luca Guadagnino,1,2,2010,UA,132,7.9,226017,93.0,18.1
+Ferris Bueller's Day Off,1986,John Hughes,1,1,1980,U,103,7.8,328259,61.0,70.14
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,Gore Verbinski,1,3,2000,UA,143,8.0,1030390,63.0,305.41
+Moana (I),2016,"Ron Clements, John Musker, Don Hall, Chris Williams",4,3,2010,U,107,7.6,285599,81.0,248.76
+Jojo Rabbit,2019,Taika Waititi,1,3,2010,UA,108,7.9,324053,58.0,0.35
+The Dark Knight Rises,2012,Christopher Nolan,1,2,2010,UA,164,8.4,1551768,78.0,448.14
+Little Women,2019,Greta Gerwig,1,2,2010,U,135,7.8,156373,91.0,108.1
+Ford v Ferrari,2019,James Mangold,1,3,2010,UA,152,8.1,318399,81.0,117.62
+Dunkirk,2017,Christopher Nolan,1,3,2010,UA,106,7.8,578106,94.0,188.37
+Wonder (I),2017,Stephen Chbosky,1,2,2010,U,113,8.0,148498,66.0,132.42
+Jaws,1975,Steven Spielberg,1,2,1970,A,124,8.0,552895,87.0,260.0
+American Psycho,2000,Mary Harron,1,3,2000,A,101,7.6,510847,64.0,15.07
+Spider-Man: Into the Spider-Verse,2018,"Bob Persichetti, Peter Ramsey, Rodney Rothman",3,3,2010,U,117,8.4,405948,87.0,190.24
+Sicario,2015,Denis Villeneuve,1,3,2010,A,121,7.6,383724,82.0,46.89
+Ex Machina,2014,Alex Garland,1,3,2010,UA,108,7.7,489485,78.0,25.44
+The Prestige,2006,Christopher Nolan,1,3,2000,U,130,8.5,1221538,66.0,53.09
+Ghostbusters,1984,Ivan Reitman,1,3,1980,UA,105,7.8,363542,71.0,238.63
+The Lord of the Rings: The Return of the King,2003,Peter Jackson,1,3,2000,U,201,8.9,1679366,94.0,377.85
+Oldeuboi,2003,Park Chan-Wook,1,3,2000,A,101,8.4,529773,77.0,0.71
+Heat,1995,Michael Mann,1,3,1990,A,170,8.2,593099,76.0,67.44
+Get Out (I),2017,Jordan Peele,1,3,2010,PG,104,7.7,512994,85.0,176.04
+Boogie Nights,1997,Paul Thomas Anderson,1,1,1990,PG,155,7.9,244606,85.0,26.4
+Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,1,3,2000,UA,108,8.3,931644,89.0,34.4
+Requiem for a Dream,2000,Darren Aronofsky,1,1,2000,A,102,8.3,782935,68.0,3.64
+Brokeback Mountain,2005,Ang Lee,1,2,2000,A,134,7.7,332004,87.0,83.04
+Kick-Ass,2010,Matthew Vaughn,1,3,2010,UA,117,7.6,532915,66.0,48.07
+Deadpool 2,2018,David Leitch,1,3,2010,R,119,7.7,501691,66.0,324.59
+Almost Famous,2000,Cameron Crowe,1,3,2000,A,122,7.9,258914,90.0,32.53
+Memento,2000,Christopher Nolan,1,2,2000,UA,113,8.4,1149499,80.0,25.54
+Braveheart,1995,Mel Gibson,1,3,1990,A,178,8.3,975910,68.0,75.6
+Moneyball,2011,Bennett Miller,1,3,2010,PG,133,7.6,382165,87.0,75.61
+Mission: Impossible - Fallout,2018,Christopher McQuarrie,1,3,2010,PG,147,7.7,301236,86.0,220.16
+Blade Runner,1982,Ridley Scott,1,3,1980,UA,117,8.1,708107,84.0,32.87
+Fargo,1996,"Joel Coen, Ethan Coen",2,3,1990,A,98,8.1,631915,85.0,24.61
+La La Land,2016,Damien Chazelle,1,3,2010,A,128,8.0,523978,94.0,151.1
+Harry Potter and the Half-Blood Prince,2009,David Yates,1,3,2000,UA,153,7.6,489321,78.0,301.96
+Black Swan,2010,Darren Aronofsky,1,2,2010,A,108,8.0,713248,79.0,106.95
+300,2006,Zack Snyder,1,2,2000,A,117,7.6,747379,52.0,210.61
+Predator,1987,John McTiernan,1,3,1980,A,107,7.8,379602,45.0,59.74
+The Usual Suspects,1995,Bryan Singer,1,3,1990,A,106,8.5,1011340,77.0,23.34
+Donnie Darko,2001,Richard Kelly,1,3,2000,UA,113,8.0,752735,88.0,1.48
+The Hateful Eight,2015,Quentin Tarantino,1,3,2010,A,168,7.8,535181,68.0,54.12
+Terminator 2: Judgment Day,1991,James Cameron,1,2,1990,A,137,8.5,1015035,75.0,204.84
+Star Wars,1977,George Lucas,1,3,1970,UA,121,8.6,1255517,90.0,322.74
+The Grand Budapest Hotel,2014,Wes Anderson,1,3,2010,UA,99,8.1,730384,88.0,59.1
+The Godfather: Part II,1974,Francis Ford Coppola,1,2,1970,A,202,9.0,1158409,90.0,57.3
+Hacksaw Ridge,2016,Mel Gibson,1,3,2010,A,139,8.1,454222,71.0,67.21
+The Lion King,1994,"Roger Allers, Rob Minkoff",2,3,1990,U,88,8.5,965705,88.0,422.78
+The Sixth Sense,1999,M. Night Shyamalan,1,3,1990,A,107,8.1,927489,64.0,293.51
+The Breakfast Club,1985,John Hughes,1,2,1980,UA,97,7.8,365322,66.0,45.88
+Edge of Tomorrow,2014,Doug Liman,1,3,2010,UA,113,7.9,615802,71.0,100.21
+The Hobbit: An Unexpected Journey,2012,Peter Jackson,1,2,2010,UA,169,7.8,769852,58.0,303.0
+One Flew Over the Cuckoo's Nest,1975,Milos Forman,1,1,1970,A,133,8.7,936999,84.0,112.0
+12 Angry Men,1957,Sidney Lumet,1,2,1950,U,96,9.0,710118,96.0,4.36
+Indiana Jones and the Last Crusade,1989,Steven Spielberg,1,2,1980,U,127,8.2,704974,65.0,197.17
+The Terminator,1984,James Cameron,1,2,1980,UA,107,8.0,809613,84.0,38.4
+The Sandlot,1993,David Mickey Evans,1,3,1990,U,101,7.8,81483,55.0,32.42
+Captain America: Civil War,2016,"Anthony Russo, Joe Russo",2,3,2010,UA,147,7.8,689422,75.0,408.08
+Zootopia,2016,"Byron Howard, Rich Moore, Jared Bush",3,3,2010,U,108,8.0,447334,78.0,341.27
+The Trial of the Chicago 7,2020,Aaron Sorkin,1,3,2020,PG,129,7.8,149100,76.0,
+A Clockwork Orange,1971,Stanley Kubrick,1,3,1970,A,136,8.3,772431,77.0,6.21
+Chinatown,1974,Roman Polanski,1,3,1970,UA,130,8.2,301868,92.0,8.49
+Big Fish,2003,Tim Burton,1,3,2000,U,125,8.0,421315,58.0,66.26
+Jagten,2012,Thomas Vinterberg,1,1,2010,R,115,8.3,294761,77.0,0.69
+The Revenant,2015,Alejandro G. Iñárritu,1,3,2010,A,156,8.0,725760,76.0,183.64
+True Romance,1993,Tony Scott,1,3,1990,A,119,7.9,211241,59.0,12.28
+The Exorcist,1973,William Friedkin,1,1,1970,A,122,8.0,368522,81.0,232.91
+Incendies,2010,Denis Villeneuve,1,3,2010,PG,131,8.3,156698,80.0,6.86
+The Lord of the Rings: The Two Towers,2002,Peter Jackson,1,3,2000,UA,179,8.7,1518447,87.0,342.55
+The Social Network,2010,David Fincher,1,2,2010,UA,120,7.7,642104,95.0,96.96
+Mulholland Dr.,2001,David Lynch,1,3,2000,UA,147,7.9,329906,85.0,7.22
+Casino Royale,2006,Martin Campbell,1,3,2000,UA,144,8.0,591991,80.0,167.45
+The Martian,2015,Ridley Scott,1,3,2010,UA,144,8.0,779920,80.0,228.43
+Wind River,2017,Taylor Sheridan,1,3,2010,R,107,7.7,215957,73.0,33.8
+Die Hard,1988,John McTiernan,1,2,1980,A,132,8.2,807225,72.0,83.01
+Black Hawk Down,2001,Ridley Scott,1,3,2000,A,144,7.7,370990,74.0,108.64
+The Hunt for Red October,1990,John McTiernan,1,3,1990,U,135,7.6,184865,58.0,122.01
+Coco (I),2017,"Lee Unkrich, Adrian Molina",2,3,2010,U,105,8.4,411244,81.0,209.73
+"Il buono, il brutto, il cattivo",1966,Sergio Leone,1,1,1960,A,161,8.8,703289,90.0,6.1
+Sherlock Holmes,2009,Guy Ritchie,1,3,2000,PG,128,7.6,593736,57.0,209.03
+Minority Report,2002,Steven Spielberg,1,3,2000,A,145,7.6,517601,80.0,132.07
+The Girl with the Dragon Tattoo,2011,David Fincher,1,3,2010,PG,158,7.8,432959,71.0,102.52
+The Hangover,2009,Todd Phillips,1,1,2000,UA,100,7.7,730563,73.0,277.32
+Rush (I),2013,Ron Howard,1,3,2010,UA,123,8.1,444655,74.0,26.95
+Captain Fantastic,2016,Matt Ross,1,2,2010,PG,118,7.9,199392,72.0,5.88
+The Fifth Element,1997,Luc Besson,1,3,1990,UA,126,7.7,442419,52.0,63.54
+The Game,1997,David Fincher,1,3,1990,UA,129,7.8,358282,61.0,48.32
+Cidade de Deus,2002,"Fernando Meirelles, Kátia Lund",2,2,2000,A,130,8.6,711678,79.0,7.56
+Kill Bill: Vol. 1,2003,Quentin Tarantino,1,3,2000,R,111,8.1,1023080,69.0,70.1
+Nightcrawler,2014,Dan Gilroy,1,3,2010,A,117,7.8,483007,76.0,32.38
+Drive (I),2011,Nicolas Winding Refn,1,2,2010,A,100,7.8,584922,78.0,35.06
+About Time (I),2013,Richard Curtis,1,3,2010,PG,123,7.8,315134,55.0,15.32
+The Pianist,2002,Roman Polanski,1,3,2000,PG,150,8.5,752972,85.0,32.57
+Psycho,1960,Alfred Hitchcock,1,3,1960,A,109,8.5,618331,97.0,32.0
+Ah-ga-ssi,2016,Park Chan-Wook,1,3,2010,A,145,8.1,122147,84.0,2.01
+Ocean's Eleven,2001,Steven Soderbergh,1,2,2000,UA,116,7.7,528622,74.0,183.42
+The Intouchables,2011,"Olivier Nakache, Éric Toledano",2,3,2010,UA,112,8.5,782082,57.0,13.18
+Into the Wild,2007,Sean Penn,1,3,2000,U,148,8.1,585903,73.0,18.35
+Hot Fuzz,2007,Edgar Wright,1,3,2000,UA,121,7.8,474205,81.0,23.64
+The Incredibles,2004,Brad Bird,1,3,2000,U,115,8.0,669999,90.0,261.44
+Zombieland,2009,Ruben Fleischer,1,3,2000,A,88,7.6,531704,73.0,75.59
+Cast Away,2000,Robert Zemeckis,1,3,2000,UA,143,7.8,539460,73.0,233.63
+Room (I),2015,Lenny Abrahamson,1,2,2010,U,118,8.1,384049,86.0,14.68
+Catch Me If You Can,2002,Steven Spielberg,1,3,2000,A,141,8.1,861648,75.0,164.62
+Star Trek,2009,J.J. Abrams,1,3,2000,UA,127,7.9,583077,82.0,257.73
+Shrek,2001,"Andrew Adamson, Vicky Jenson",2,3,2000,U,90,7.9,627679,84.0,267.67
+The Imitation Game,2014,Morten Tyldum,1,3,2010,UA,114,8.0,703655,73.0,91.13
+I Am Sam,2001,Jessie Nelson,1,1,2000,U,132,7.6,144793,28.0,40.31
+Rogue One,2016,Gareth Edwards,1,3,2010,UA,133,7.8,570054,65.0,532.18
+Ratatouille,2007,"Brad Bird, Jan Pinkava",2,3,2000,U,111,8.0,657091,96.0,206.45
+Contratiempo,2016,Oriol Paulo,1,3,2010,PG,106,8.1,154562,,
+Million Dollar Baby,2004,Clint Eastwood,1,2,2000,UA,132,8.1,648136,86.0,100.49
+Sense and Sensibility,1995,Ang Lee,1,2,1990,U,136,7.7,105510,84.0,43.18
+Back to the Future Part II,1989,Robert Zemeckis,1,3,1980,U,108,7.8,492425,57.0,118.5
+American History X,1998,Tony Kaye,1,1,1990,R,119,8.5,1052655,62.0,6.72
+Office Space,1999,Mike Judge,1,1,1990,R,89,7.7,247268,68.0,10.82
+2001: A Space Odyssey,1968,Stanley Kubrick,1,2,1960,U,149,8.3,617008,84.0,56.95
+What's Eating Gilbert Grape,1993,Lasse Hallström,1,1,1990,U,118,7.7,220134,73.0,9.17
+Idi i smotri,1985,Elem Klimov,1,3,1980,A,142,8.3,63830,,
+Warrior,2011,Gavin O'Connor,1,3,2010,UA,140,8.1,443822,71.0,13.66
+La vie d'Adèle,2013,Abdellatif Kechiche,1,2,2010,A,180,7.7,141856,89.0,2.2
+Trainspotting,1996,Danny Boyle,1,1,1990,A,93,8.1,645543,83.0,16.5
+The Perks of Being a Wallflower,2012,Stephen Chbosky,1,2,2010,UA,103,7.9,473275,67.0,17.74
+A Beautiful Mind,2001,Ron Howard,1,2,2000,UA,135,8.2,867984,72.0,170.74
+Soorarai Pottru,2020,Sudha Kongara,1,1,2020,U,153,9.1,83443,,
+Portrait de la jeune fille en feu,2019,Céline Sciamma,1,2,2010,PG,122,8.1,72365,95.0,3.76
+Taken (I),2008,Pierre Morel,1,3,2000,A,90,7.8,572936,51.0,145.0
+Kimi no na wa.,2016,Makoto Shinkai,1,3,2010,U,106,8.4,212289,79.0,5.02
+Midnight in Paris,2011,Woody Allen,1,3,2010,PG,94,7.7,396039,81.0,56.82
+Airplane!,1980,"Jim Abrahams, David Zucker, Jerry Zucker",3,1,1980,U,88,7.7,220046,78.0,83.4
+The Last of the Mohicans,1992,Michael Mann,1,3,1990,UA,112,7.7,155282,76.0,75.51
+The Curious Case of Benjamin Button,2008,David Fincher,1,3,2000,UA,166,7.8,603251,70.0,127.51
+X-Men: Days of Future Past,2014,Bryan Singer,1,3,2010,UA,132,7.9,671022,75.0,233.92
+La vita è bella,1997,Roberto Benigni,1,3,1990,U,116,8.6,639492,59.0,57.6
+L.A. Confidential,1997,Curtis Hanson,1,3,1990,A,138,8.2,542520,90.0,64.62
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick,1,1,1960,A,95,8.4,459090,97.0,0.28
+Inside Out (I),2015,"Pete Docter, Ronnie Del Carmen",2,3,2010,U,95,8.1,637377,94.0,356.46
+X: First Class,2011,Matthew Vaughn,1,3,2010,UA,131,7.7,655300,65.0,146.41
+Pan's Labyrinth,2006,Guillermo del Toro,1,3,2000,UA,118,8.2,629637,98.0,37.63
+The Blind Side,2009,John Lee Hancock,1,3,2000,UA,129,7.6,301221,53.0,255.96
+Hidden Figures,2016,Theodore Melfi,1,3,2010,UA,127,7.8,207852,74.0,169.61
+The Wizard of Oz,1939,"Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog, Richard Thorpe, King Vidor",6,3,1930,U,102,8.0,375383,92.0,2.08
+Salinui chueok,2003,Bong Joon Ho,1,3,2000,UA,131,8.1,150116,82.0,0.01
+The Butterfly Effect,2004,"Eric Bress, J. Mackye Gruber",2,3,2000,UA,113,7.6,458846,30.0,57.94
+Dead Poets Society,1989,Peter Weir,1,2,1980,U,128,8.1,439527,79.0,95.86
+Planet of the Apes,1968,Franklin J. Schaffner,1,2,1960,U,112,8.0,167924,79.0,33.4
+Tangled,2010,"Nathan Greno, Byron Howard",2,3,2010,U,100,7.7,415144,71.0,200.82
+Rocky,1976,John G. Avildsen,1,2,1970,U,120,8.1,530520,70.0,117.24
+Shaun of the Dead,2004,Edgar Wright,1,2,2000,UA,99,7.9,522767,76.0,13.54
+Doctor Zhivago,1965,David Lean,1,3,1960,A,197,8.0,71332,69.0,111.72
+A Few Good Men,1992,Rob Reiner,1,2,1990,U,138,7.7,241370,62.0,141.34
+Singin' in the Rain,1952,"Stanley Donen, Gene Kelly",2,3,1950,PG,103,8.3,224014,99.0,8.82
+The Count of Monte Cristo,2002,Kevin Reynolds,1,3,2000,PG,131,7.7,131222,61.0,54.23
+Y tu mamá también,2001,Alfonso Cuarón,1,1,2000,A,106,7.6,117686,88.0,13.62
+Sin City,2005,"Frank Miller, Quentin Tarantino, Robert Rodriguez",3,2,2000,A,124,8.0,743875,74.0,74.1
+Scent of a Woman,1992,Martin Brest,1,1,1990,UA,156,8.0,272744,59.0,63.9
+Edward Scissorhands,1990,Tim Burton,1,3,1990,U,105,7.9,454653,74.0,56.36
+"Monsters, Inc.",2001,"Pete Docter, David Silverman, Lee Unkrich",3,3,2000,U,92,8.1,834035,79.0,289.92
+Willy Wonka & the Chocolate Factory,1971,Mel Stuart,1,3,1970,U,100,7.8,182772,67.0,4.0
+E.T. the Extra-Terrestrial,1982,Steven Spielberg,1,2,1980,U,115,7.8,379735,91.0,435.11
+(500) Days of Summer,2009,Marc Webb,1,3,2000,UA,95,7.7,480959,76.0,32.39
+Moonrise Kingdom,2012,Wes Anderson,1,3,2010,A,94,7.8,326248,84.0,45.51
+Casablanca,1942,Michael Curtiz,1,3,1940,U,102,8.5,532282,100.0,1.02
+Children of Men,2006,Alfonso Cuarón,1,3,2000,A,109,7.9,472865,84.0,35.55
+Apollo 13 (I),1995,Ron Howard,1,3,1990,U,140,7.6,275850,77.0,173.84
+First Blood,1982,Ted Kotcheff,1,2,1980,A,93,7.7,233329,61.0,47.21
+Manchester by the Sea,2016,Kenneth Lonergan,1,1,2010,UA,137,7.8,255661,96.0,47.7
+Star Wars: Episode VII - The Force Awakens,2015,J.J. Abrams,1,3,2010,U,138,7.8,874015,80.0,936.66
+Dances with Wolves,1990,Kevin Costner,1,3,1990,U,181,8.0,246312,72.0,184.21
+Hauru no ugoku shiro,2004,Hayao Miyazaki,1,3,2000,U,119,8.2,347466,80.0,4.71
+Toy Story 4,2019,Josh Cooley,1,3,2010,U,100,7.7,214511,84.0,434.04
+Mulan,1998,"Tony Bancroft, Barry Cook",2,3,1990,U,88,7.6,263393,71.0,120.62
+Gran Torino,2008,Clint Eastwood,1,1,2000,UA,116,8.1,732175,72.0,148.1
+Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner,1,3,1980,UA,124,8.7,1183456,82.0,290.48
+Apocalypto,2006,Mel Gibson,1,3,2000,A,139,7.8,295828,68.0,50.87
+Home Alone,1990,Chris Columbus,1,2,1990,U,103,7.6,498665,63.0,285.76
+Gone with the Wind,1939,"Victor Fleming, George Cukor, Sam Wood",3,3,1930,U,238,8.1,295540,97.0,198.68
+The Warriors,1979,Walter Hill,1,3,1970,UA,92,7.6,95927,65.0,22.49
+Little Miss Sunshine,2006,"Jonathan Dayton, Valerie Faris",2,2,2000,UA,101,7.8,448260,80.0,59.89
+The Deer Hunter,1978,Michael Cimino,1,2,1970,A,183,8.1,317828,86.0,48.98
+Silver Linings Playbook,2012,David O. Russell,1,3,2010,A,122,7.7,672768,81.0,132.09
+What We Do in the Shadows,2014,"Jemaine Clement, Taika Waititi",2,2,2010,R,86,7.7,162803,76.0,3.33
+The Pursuit of Happyness,2006,Gabriele Muccino,1,2,2000,U,117,8.0,462463,64.0,163.57
+The Hobbit: The Desolation of Smaug,2013,Peter Jackson,1,2,2010,UA,161,7.8,612384,66.0,258.37
+Dallas Buyers Club,2013,Jean-Marc Vallée,1,2,2010,R,117,8.0,453080,80.0,27.3
+Young Frankenstein,1974,Mel Brooks,1,1,1970,A,106,8.0,146010,80.0,86.3
+Hell or High Water (II),2016,David Mackenzie,1,3,2010,R,102,7.6,209898,88.0,26.86
+Changeling,2008,Clint Eastwood,1,3,2000,A,141,7.7,243262,63.0,35.74
+Blue Velvet,1986,David Lynch,1,3,1980,A,120,7.7,185351,76.0,8.55
+La piel que habito,2011,Pedro Almodóvar,1,3,2010,R,120,7.6,142527,70.0,3.19
+The Last Samurai,2003,Edward Zwick,1,2,2000,UA,154,7.7,407521,55.0,111.11
+This Is England,2006,Shane Meadows,1,2,2000,A,101,7.7,117167,86.0,0.33
+Big Hero 6,2014,"Don Hall, Chris Williams",2,3,2010,U,102,7.8,420937,74.0,222.53
+How to Train Your Dragon,2010,"Dean DeBlois, Chris Sanders",2,3,2010,U,98,8.1,681745,75.0,217.58
+Coraline,2009,Henry Selick,1,3,2000,U,100,7.7,203150,80.0,75.29
+WALL·E,2008,Andrew Stanton,1,3,2000,U,98,8.4,1023884,95.0,223.81
+Blazing Saddles,1974,Mel Brooks,1,2,1970,A,93,7.7,128500,73.0,119.5
+The Bourne Identity,2002,Doug Liman,1,3,2000,UA,119,7.9,517323,68.0,121.66
+3 Idiots,2009,Rajkumar Hirani,1,2,2000,UA,170,8.4,358359,67.0,6.53
+Who Framed Roger Rabbit,1988,Robert Zemeckis,1,3,1980,U,104,7.7,185811,83.0,156.45
+Up,2009,"Pete Docter, Bob Peterson",2,3,2000,U,96,8.2,957795,88.0,293.0
+Deliverance,1972,John Boorman,1,3,1970,U,109,7.7,100849,80.0,7.06
+The Fighter (I),2010,David O. Russell,1,3,2010,UA,116,7.8,346809,79.0,93.62
+The Lives of Others,2006,Florian Henckel von Donnersmarck,1,3,2000,A,137,8.4,366801,89.0,11.29
+Captain Phillips,2013,Paul Greengrass,1,3,2010,UA,134,7.8,430186,82.0,107.1
+Hachi: A Dog's Tale,2009,Lasse Hallström,1,3,2000,U,93,8.1,261323,,
+Arsenic and Old Lace,1943,Frank Capra,1,3,1940,,118,8.0,66101,,
+Lion,2016,Garth Davis,1,2,2010,U,118,8.0,220694,69.0,51.74
+Star Wars: Episode VI - Return of the Jedi,1983,Richard Marquand,1,3,1980,U,131,8.3,969736,58.0,309.13
+Rear Window,1954,Alfred Hitchcock,1,2,1950,U,112,8.5,454138,100.0,36.76
+The Blues Brothers,1980,John Landis,1,3,1980,U,133,7.9,187020,60.0,57.23
+Le fabuleux destin d'Amélie Poulain,2001,Jean-Pierre Jeunet,1,2,2000,U,122,8.3,715667,69.0,33.23
+Crash (I),2004,Paul Haggis,1,3,2000,UA,112,7.7,423763,66.0,54.58
+As Good as It Gets,1997,James L. Brooks,1,3,1990,A,139,7.7,281076,67.0,148.48
+Remember the Titans,2000,Boaz Yakin,1,3,2000,U,113,7.8,201649,48.0,115.65
+Once Upon a Time in the West,1968,Sergio Leone,1,1,1960,U,165,8.5,308827,80.0,5.32
+District 9,2009,Neill Blomkamp,1,3,2000,A,112,7.9,646373,81.0,115.65
+True Grit,2010,"Ethan Coen, Joel Coen",2,2,2010,PG,110,7.6,318444,80.0,171.24
+JFK,1991,Oliver Stone,1,3,1990,UA,189,8.0,145252,72.0,70.41
+Incredibles 2,2018,Brad Bird,1,3,2010,UA,118,7.6,260702,80.0,608.58
+Capharnaüm,2018,Nadine Labaki,1,1,2010,A,126,8.4,70280,75.0,1.66
+Primal Fear,1996,Gregory Hoblit,1,3,1990,A,129,7.7,194825,47.0,56.12
+Serenity,2005,Joss Whedon,1,3,2000,PG,119,7.8,286400,74.0,25.51
+Falling Down,1993,Joel Schumacher,1,3,1990,UA,113,7.6,176360,56.0,40.9
+The Dirty Dozen,1967,Robert Aldrich,1,3,1960,U,150,7.7,68437,73.0,45.3
+The Naked Gun: From the Files of Police Squad!,1988,David Zucker,1,2,1980,U,85,7.6,156874,76.0,78.76
+The Great Escape,1963,John Sturges,1,3,1960,U,172,8.2,229456,86.0,12.1
+The Thin Red Line,1998,Terrence Malick,1,2,1990,A,170,7.6,176314,78.0,36.4
+The Florida Project,2017,Sean Baker,1,1,2010,A,111,7.6,99744,92.0,5.9
+The Others,2001,Alejandro Amenábar,1,3,2000,PG,101,7.6,344748,74.0,96.52
+Boyhood (I),2014,Richard Linklater,1,1,2010,A,165,7.9,340539,100.0,25.38
+Rain Man,1988,Barry Levinson,1,1,1980,U,133,8.0,482077,65.0,178.8
+Before Sunrise,1995,Richard Linklater,1,2,1990,PG,101,8.1,280486,77.0,5.54
+The Graduate,1967,Mike Nichols,1,3,1960,A,106,8.0,257597,83.0,104.95
+Citizen Kane,1941,Orson Welles,1,2,1940,UA,119,8.3,413984,100.0,1.59
+Hunt for the Wilderpeople,2016,Taika Waititi,1,3,2010,UA,101,7.9,116735,81.0,5.2
+Rosemary's Baby,1968,Roman Polanski,1,2,1960,A,137,8.0,199215,96.0,
+The Searchers,1956,John Ford,1,3,1950,U,119,7.9,82216,94.0,
+Aladdin,1992,"Ron Clements, John Musker",2,3,1990,U,90,8.0,380749,86.0,217.35
+Ang-ma-reul bo-at-da,2010,Jee-woon Kim,1,3,2010,,144,7.8,115952,67.0,0.13
+Halloween,1978,John Carpenter,1,2,1970,A,91,7.7,237755,87.0,47.0
+Batoru rowaiaru,2000,Kinji Fukasaku,1,3,2000,PG,114,7.6,171932,81.0,
+Hotaru no haka,1988,Isao Takahata,1,3,1980,U,89,8.5,244869,94.0,
+Slumdog Millionaire,2008,"Danny Boyle, Loveleen Tandan",2,2,2000,UA,120,8.0,810096,84.0,141.32
+Despicable Me,2010,"Pierre Coffin, Chris Renaud",2,3,2010,U,95,7.6,509775,72.0,251.51
+Nuovo Cinema Paradiso,1988,Giuseppe Tornatore,1,2,1980,U,155,8.5,238016,80.0,11.99
+Magnolia,1999,Paul Thomas Anderson,1,1,1990,A,188,8.0,293997,77.0,22.46
+The Machinist,2004,Brad Anderson,1,2,2000,R,101,7.7,365055,61.0,1.08
+Mononoke-hime,1997,Hayao Miyazaki,1,3,1990,U,134,8.4,354651,76.0,2.38
+Beauty and the Beast,1991,"Gary Trousdale, Kirk Wise",2,3,1990,U,84,8.0,423004,95.0,218.97
+The Royal Tenenbaums,2001,Wes Anderson,1,2,2000,A,110,7.6,272349,76.0,52.36
+Straight Outta Compton,2015,F. Gary Gray,1,3,2010,R,147,7.8,184486,72.0,161.2
+The Sting,1973,George Roy Hill,1,3,1970,U,129,8.3,246441,83.0,159.6
+Moon,2009,Duncan Jones,1,3,2000,R,97,7.8,340854,67.0,5.01
+The Theory of Everything,2014,James Marsh,1,3,2010,U,123,7.7,415734,72.0,35.89
+Some Like It Hot,1959,Billy Wilder,1,3,1950,A,121,8.2,248909,98.0,25.0
+Traffic,2000,Steven Soderbergh,1,3,2000,R,147,7.6,198856,86.0,124.12
+The Boondock Saints,1999,Troy Duffy,1,3,1990,A,108,7.8,229888,44.0,0.03
+Misery,1990,Rob Reiner,1,2,1990,A,107,7.8,189720,75.0,61.28
+The Wrestler,2008,Darren Aronofsky,1,2,2000,UA,109,7.9,292889,80.0,26.24
+Do the Right Thing,1989,Spike Lee,1,2,1980,U,120,8.0,93209,93.0,27.55
+"Paris, Texas",1984,Wim Wenders,1,1,1980,U,145,8.1,95751,78.0,2.18
+Fantastic Mr. Fox,2009,Wes Anderson,1,3,2000,U,87,7.9,207232,83.0,21.0
+Life of Pi,2012,Ang Lee,1,3,2010,U,127,7.9,591789,79.0,124.99
+It's a Wonderful Life,1946,Frank Capra,1,3,1940,PG,130,8.6,414017,89.0,
+The Boy in the Striped Pyjamas,2008,Mark Herman,1,3,2000,PG,94,7.8,195641,55.0,9.03
+The Lego Movie,2014,"Christopher Miller, Phil Lord",2,3,2010,U,100,7.7,329454,83.0,257.76
+Das Boot,1981,Wolfgang Petersen,1,3,1980,R,149,8.3,236378,86.0,11.49
+Gone Baby Gone,2007,Ben Affleck,1,3,2000,A,114,7.6,255361,72.0,20.3
+The Birds,1963,Alfred Hitchcock,1,3,1960,A,119,7.7,175269,90.0,11.4
+Mr. Nobody,2009,Jaco Van Dormael,1,3,2000,R,141,7.8,220815,63.0,0.0
+Blood Diamond,2006,Edward Zwick,1,3,2000,A,143,8.0,509570,64.0,57.37
+Barry Lyndon,1975,Stanley Kubrick,1,3,1970,U,185,8.1,154205,89.0,
+To Kill a Mockingbird,1962,Robert Mulligan,1,2,1960,U,129,8.3,298590,88.0,
+Gattaca,1997,Andrew Niccol,1,3,1990,UA,106,7.8,285834,64.0,12.34
+Serpico,1973,Sidney Lumet,1,3,1970,A,130,7.7,113062,87.0,29.8
+Dangal,2016,Nitesh Tiwari,1,3,2010,U,161,8.4,165358,,12.39
+Brazil,1985,Terry Gilliam,1,2,1980,U,132,7.9,190809,84.0,9.93
+In Bruges,2008,Martin McDonagh,1,3,2000,R,107,7.9,396833,67.0,7.76
+Cool Hand Luke,1967,Stuart Rosenberg,1,2,1960,A,127,8.1,165446,92.0,16.22
+Close Encounters of the Third Kind,1977,Steven Spielberg,1,2,1970,U,138,7.6,188608,90.0,132.09
+Toy Story 3,2010,Lee Unkrich,1,3,2010,U,103,8.2,772941,92.0,415.0
+Creed (II),2015,Ryan Coogler,1,2,2010,UA,133,7.6,253209,82.0,109.77
+Dirty Harry,1971,"Don Siegel, Clint Eastwood",2,3,1970,A,102,7.7,146398,90.0,35.9
+El secreto de sus ojos,2009,Juan José Campanella,1,3,2000,R,129,8.2,197687,80.0,6.39
+Raging Bull,1980,Martin Scorsese,1,3,1980,A,129,8.2,328559,89.0,23.38
+The French Connection,1971,William Friedkin,1,3,1970,A,104,7.7,113262,94.0,15.63
+This Is Spinal Tap,1984,Rob Reiner,1,2,1980,,82,7.9,131398,92.0,0.19
+Groundhog Day,1993,Harold Ramis,1,3,1990,U,101,8.0,588035,72.0,70.91
+The Magnificent Seven,1960,John Sturges,1,3,1960,,128,7.7,89388,74.0,4.91
+Just Mercy,2019,Destin Daniel Cretton,1,3,2010,A,137,7.6,52530,68.0,
+Gravity,2013,Alfonso Cuarón,1,3,2010,UA,91,7.7,781430,96.0,274.09
+The King's Speech,2010,Tom Hooper,1,3,2010,U,118,8.0,649733,88.0,138.8
+Fried Green Tomatoes,1991,Jon Avnet,1,1,1990,U,130,7.7,68786,64.0,82.42
+Bridge of Spies,2015,Steven Spielberg,1,3,2010,UA,142,7.6,293956,81.0,72.31
+The Last Picture Show,1971,Peter Bogdanovich,1,2,1970,U,118,8.0,43809,93.0,29.13
+Carlito's Way,1993,Brian De Palma,1,3,1990,A,144,7.9,205186,65.0,36.95
+Donnie Brasco,1997,Mike Newell,1,3,1990,A,127,7.7,286320,76.0,41.91
+Die Hard: With a Vengeance,1995,John McTiernan,1,3,1990,A,128,7.6,368992,58.0,100.01
+Dog Day Afternoon,1975,Sidney Lumet,1,3,1970,U,125,8.0,240428,86.0,50.0
+Searching (III),2018,Aneesh Chaganty,1,3,2010,PG,102,7.6,146969,71.0,26.02
+Pâfekuto burû,1997,Satoshi Kon,1,3,1990,A,81,8.0,62273,,0.78
+Awakenings,1990,Penny Marshall,1,2,1990,U,121,7.8,129590,74.0,52.1
+La montaña sagrada,1973,Alejandro Jodorowsky,1,3,1970,A,114,7.9,38724,76.0,0.06
+Ratsasan,2018,Ram Kumar,1,3,2010,UA,170,8.5,31269,,
+Isle of Dogs,2018,Wes Anderson,1,3,2010,U,101,7.9,145927,82.0,32.02
+Eastern Promises,2007,David Cronenberg,1,3,2000,R,100,7.6,231591,82.0,17.11
+Butch Cassidy and the Sundance Kid,1969,George Roy Hill,1,3,1960,U,110,8.0,204579,66.0,102.31
+Kung fu,2004,Stephen Chow,1,3,2000,UA,99,7.7,129987,78.0,17.11
+The Bourne Supremacy,2004,Paul Greengrass,1,3,2000,A,108,7.7,441334,73.0,176.24
+Män som hatar kvinnor,2009,Niels Arden Oplev,1,3,2000,R,152,7.8,210897,76.0,10.1
+Midnight Cowboy,1969,John Schlesinger,1,1,1960,A,113,7.8,103208,79.0,44.79
+Kôkaku Kidôtai,1995,Mamoru Oshii,1,3,1990,UA,83,8.0,132765,76.0,0.52
+Akira,1988,Katsuhiro Ôtomo,1,3,1980,UA,124,8.0,169507,,0.55
+Stalker,1979,Andrei Tarkovsky,1,2,1970,U,162,8.1,121020,,0.23
+Gangs of Wasseypur,2012,Anurag Kashyap,1,3,2010,A,321,8.2,86538,89.0,
+Paddington 2,2017,Paul King,1,3,2010,U,103,7.8,65463,88.0,40.44
+3:10 to Yuma,2007,James Mangold,1,3,2000,A,122,7.7,294087,76.0,53.61
+Metropolis,1927,Fritz Lang,1,2,1920,,153,8.3,163305,98.0,1.24
+End of Watch,2012,David Ayer,1,3,2010,A,109,7.6,232131,68.0,41.0
+Match Point,2005,Woody Allen,1,3,2000,R,124,7.6,209018,72.0,23.09
+Enter the Dragon,1973,Robert Clouse,1,3,1970,A,102,7.7,98816,83.0,25.0
+Ordinary People,1980,Robert Redford,1,1,1980,U,124,7.7,48293,86.0,54.8
+Relatos salvajes,2014,Damián Szifron,1,3,2010,PG,122,8.1,182946,77.0,3.11
+Cabaret,1972,Bob Fosse,1,3,1970,A,124,7.8,49371,80.0,42.77
+Toy Story 2,1999,"John Lasseter, Ash Brannon, Lee Unkrich",3,3,1990,U,92,7.9,537822,88.0,245.85
+Glory,1989,Edward Zwick,1,3,1980,,122,7.8,126029,78.0,26.83
+Sling Blade,1996,Billy Bob Thornton,1,1,1990,R,135,8.0,88549,84.0,24.48
+Lucky Number Slevin,2006,Paul McGuigan,1,3,2000,R,110,7.7,302686,53.0,22.49
+The Iron Giant,1999,Brad Bird,1,3,1990,U,86,8.0,176383,85.0,23.16
+The Bourne Ultimatum,2007,Paul Greengrass,1,3,2000,UA,115,8.0,610968,85.0,227.47
+Seven Pounds,2008,Gabriele Muccino,1,1,2000,UA,123,7.6,290509,36.0,69.95
+Spartacus,1960,Stanley Kubrick,1,3,1960,A,197,7.9,126403,87.0,30.0
+Pather Panchali,1955,Satyajit Ray,1,1,1950,U,125,8.6,25942,,0.54
+The Elephant Man,1980,David Lynch,1,2,1980,UA,124,8.1,225051,78.0,
+Night of the Living Dead,1968,George A. Romero,1,2,1960,A,96,7.9,119207,89.0,0.09
+The Illusionist,2006,Neil Burger,1,3,2000,U,110,7.6,358808,68.0,39.87
+Life of Brian,1979,Terry Jones,1,1,1970,,94,8.1,374449,77.0,20.05
+The Ten Commandments,1956,Cecil B. DeMille,1,2,1950,U,220,7.9,65929,,93.74
+After Hours (I),1985,Martin Scorsese,1,3,1980,UA,97,7.7,62319,90.0,10.6
+Per un pugno di dollari,1964,Sergio Leone,1,3,1960,A,99,8.0,202161,65.0,14.5
+Per qualche dollaro in più,1965,Sergio Leone,1,1,1960,U,132,8.2,237914,74.0,15.0
+Låt den rätte komma in,2008,Tomas Alfredson,1,3,2000,R,114,7.9,207983,82.0,2.12
+Ben-Hur,1959,William Wyler,1,3,1950,U,212,8.1,223613,90.0,74.7
+The Jungle Book,1967,Wolfgang Reitherman,1,3,1960,U,78,7.6,169677,65.0,141.84
+Det sjunde inseglet,1957,Ingmar Bergman,1,3,1950,A,96,8.2,169864,88.0,
+It Happened One Night,1934,Frank Capra,1,2,1930,,105,8.1,96401,87.0,4.36
+October Sky,1999,Joe Johnston,1,3,1990,PG,108,7.8,84990,71.0,32.48
+Lord of War,2005,Andrew Niccol,1,3,2000,R,122,7.6,298621,62.0,24.15
+50/50,2011,Jonathan Levine,1,3,2010,R,100,7.6,318940,72.0,35.01
+Evil Dead II,1987,Sam Raimi,1,2,1980,A,84,7.7,151045,72.0,5.92
+Goldfinger,1964,Guy Hamilton,1,3,1960,A,110,7.7,177176,87.0,51.08
+The Nightmare Before Christmas,1993,Henry Selick,1,3,1990,U,76,8.0,304955,82.0,75.08
+Star Trek II: The Wrath of Khan,1982,Nicholas Meyer,1,3,1980,U,113,7.7,114556,67.0,78.91
+Ed Wood,1994,Tim Burton,1,3,1990,U,127,7.8,167185,70.0,5.89
+La haine,1995,Mathieu Kassovitz,1,2,1990,UA,98,8.1,155857,,0.31
+How to Train Your Dragon 2,2014,Dean DeBlois,1,3,2010,U,102,7.8,311780,76.0,177.0
+Bonnie and Clyde,1967,Arthur Penn,1,3,1960,A,111,7.8,104716,86.0,
+Blood Simple,1984,"Joel Coen, Ethan Coen",2,3,1980,A,99,7.6,90174,83.0,2.15
+Kelly's Heroes,1970,Brian G. Hutton,1,3,1970,U,144,7.6,46257,50.0,1.38
+Andhadhun,2018,Sriram Raghavan,1,3,2010,UA,139,8.2,78125,,1.37
+Dogville,2003,Lars von Trier,1,2,2000,R,178,8.0,140341,60.0,1.53
+The Long Goodbye,1973,Robert Altman,1,3,1970,A,112,7.6,27321,87.0,0.96
+The Right Stuff,1983,Philip Kaufman,1,3,1980,UA,193,7.8,57121,91.0,21.5
+God's Own Country,2017,Francis Lee,1,2,2010,,104,7.7,26746,85.0,0.34
+Laura,1944,Otto Preminger,1,3,1940,,88,8.0,43639,,4.36
+Gake no ue no Ponyo,2008,Hayao Miyazaki,1,3,2000,U,101,7.7,129723,86.0,15.09
+Before Midnight,2013,Richard Linklater,1,2,2010,R,109,7.9,145584,94.0,8.11
+Ip Man,2008,Wilson Yip,1,3,2000,R,106,8.0,214256,59.0,
+Do lok tin si,1995,Kar-Wai Wong,1,3,1990,UA,99,7.7,29179,71.0,
+Rushmore,1998,Wes Anderson,1,3,1990,UA,93,7.7,173153,86.0,17.11
+Billy Elliot,2000,Stephen Daldry,1,2,2000,UA,110,7.7,128715,74.0,22.0
+Pride (I),2014,Matthew Warchus,1,3,2010,R,119,7.8,53094,79.0,
+The King of Comedy,1982,Martin Scorsese,1,3,1980,U,109,7.8,93529,73.0,2.5
+Cinderella Man,2005,Ron Howard,1,3,2000,UA,144,8.0,178878,69.0,61.65
+A Streetcar Named Desire,1951,Elia Kazan,1,1,1950,A,122,8.0,100908,97.0,8.0
+Zwartboek,2006,Paul Verhoeven,1,3,2000,R,145,7.7,73701,71.0,4.4
+Hotel Rwanda,2004,Terry George,1,3,2000,PG,121,8.1,339414,79.0,23.53
+Togo,2019,Ericson Core,1,3,2010,U,113,8.0,41060,69.0,
+Finding Neverland,2004,Marc Forster,1,3,2000,U,106,7.7,200682,67.0,51.68
+Seppuku,1962,Masaki Kobayashi,1,3,1960,,133,8.6,45786,85.0,
+Gandhi,1982,Richard Attenborough,1,3,1980,U,191,8.0,220173,79.0,52.77
+Mississippi Burning,1988,Alan Parker,1,3,1980,A,128,7.8,90877,65.0,34.6
+The Maltese Falcon,1941,John Huston,1,3,1940,,100,8.0,151034,96.0,2.11
+Der Name der Rose,1986,Jean-Jacques Annaud,1,3,1980,UA,130,7.7,103826,54.0,7.15
+Ran,1985,Akira Kurosawa,1,3,1980,U,162,8.2,116005,96.0,4.14
+The Conversation,1974,Francis Ford Coppola,1,3,1970,U,113,7.8,101971,85.0,4.42
+M - Eine Stadt sucht einen Mörder,1931,Fritz Lang,1,3,1930,,117,8.3,146958,,0.03
+Naked,1993,Mike Leigh,1,2,1990,,132,7.8,35860,84.0,1.77
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",1997,"Hideaki Anno, Kazuya Tsurumaki",2,3,1990,UA,87,8.1,42523,,
+The Bridges of Madison County,1995,Clint Eastwood,1,2,1990,A,135,7.6,75170,69.0,71.52
+Jodaeiye Nader az Simin,2011,Asghar Farhadi,1,1,2010,PG,123,8.3,226217,95.0,7.1
+La migliore offerta,2013,Giuseppe Tornatore,1,3,2010,R,131,7.8,111405,49.0,0.09
+Rebecca,1940,Alfred Hitchcock,1,3,1940,,130,8.1,126955,86.0,4.36
+Glengarry Glen Ross,1992,James Foley,1,3,1990,R,100,7.7,97752,82.0,10.73
+Der Himmel über Berlin,1987,Wim Wenders,1,3,1980,U,128,8.0,66367,79.0,3.33
+El cuerpo,2012,Oriol Paulo,1,2,2010,,112,7.6,60185,,
+Charade,1963,Stanley Donen,1,3,1960,U,113,7.9,71133,83.0,13.47
+Amores perros,2000,Alejandro G. Iñárritu,1,2,2000,A,154,8.1,227624,83.0,5.38
+Badlands,1973,Terrence Malick,1,3,1970,,94,7.8,67973,93.0,
+The Ladykillers,1955,Alexander Mackendrick,1,2,1950,,91,7.7,27368,91.0,
+The Bridge on the River Kwai,1957,David Lean,1,3,1950,PG,161,8.1,207397,87.0,44.91
+Drishyam 2,2021,Jeethu Joseph,1,3,2020,PG,152,8.7,27257,,
+Paths of Glory,1957,Stanley Kubrick,1,2,1950,A,88,8.4,182880,90.0,
+Solaris,1972,Andrei Tarkovsky,1,3,1970,U,167,8.1,83237,90.0,
+Shane,1953,George Stevens,1,2,1950,,118,7.6,37955,80.0,20.0
+Klaus,2019,"Sergio Pablos, Carlos Martínez López",2,3,2010,PG,96,8.2,114167,65.0,
+Where Eagles Dare,1968,Brian G. Hutton,1,3,1960,U,158,7.6,53095,63.0,
+Mommy (I),2014,Xavier Dolan,1,1,2010,R,139,8.1,52489,74.0,3.49
+Serbuan maut 2: Berandal,2014,Gareth Evans,1,3,2010,A,150,8.0,116539,71.0,2.63
+The Remains of the Day,1993,James Ivory,1,2,1990,U,134,7.8,68412,86.0,22.95
+The Last King of Scotland,2006,Kevin Macdonald,1,3,2000,A,123,7.7,178158,74.0,17.61
+8½,1963,Federico Fellini,1,1,1960,,138,8.0,111234,91.0,0.05
+Miller's Crossing,1990,"Joel Coen, Ethan Coen",2,3,1990,,115,7.7,127953,66.0,5.08
+Manbiki kazoku,2018,Hirokazu Koreeda,1,2,2010,A,121,7.9,67038,93.0,3.31
+Dancer in the Dark,2000,Lars von Trier,1,3,2000,U,140,8.0,104295,61.0,4.18
+The Insider,1999,Michael Mann,1,3,1990,UA,157,7.8,162404,84.0,28.97
+The Apartment,1960,Billy Wilder,1,3,1960,U,125,8.3,168236,94.0,18.6
+Witness for the Prosecution,1957,Billy Wilder,1,3,1950,U,116,8.4,112639,,8.18
+The Artist (I),2011,Michel Hazanavicius,1,3,2010,U,100,7.9,233635,89.0,44.67
+Kramer vs. Kramer,1979,Robert Benton,1,1,1970,U,105,7.8,136660,77.0,106.26
+Kaze no tani no Naushika,1984,Hayao Miyazaki,1,3,1980,U,117,8.1,155823,86.0,0.5
+Majo no takkyûbin,1989,Hayao Miyazaki,1,3,1980,U,103,7.9,129190,83.0,
+Fiddler on the Roof,1971,Norman Jewison,1,3,1970,U,181,8.0,40395,67.0,80.5
+In the Heat of the Night,1967,Norman Jewison,1,3,1960,U,110,7.9,69383,75.0,24.38
+Persona,1966,Ingmar Bergman,1,2,1960,,85,8.1,107189,86.0,
+On the Waterfront,1954,Elia Kazan,1,3,1950,A,108,8.1,145091,91.0,9.6
+Ajeossi,2010,Jeong-beom Lee,1,3,2010,R,119,7.8,64778,,0.01
+The Night of the Hunter,1955,Charles Laughton,1,3,1950,A,92,8.0,83730,99.0,0.65
+21 Grams,2003,Alejandro G. Iñárritu,1,3,2000,UA,124,7.6,227184,70.0,16.29
+Rope,1948,Alfred Hitchcock,1,3,1940,A,80,8.0,132794,73.0,
+Short Term 12,2013,Destin Daniel Cretton,1,1,2010,R,96,8.0,83594,82.0,1.01
+Miracle in Cell No. 7,2019,Mehmet Ada Öztekin,1,1,2010,,132,8.2,39997,,
+Barton Fink,1991,"Joel Coen, Ethan Coen",2,3,1990,A,116,7.7,115264,69.0,6.15
+Pink Floyd: The Wall,1982,Alan Parker,1,3,1980,A,95,8.0,77314,47.0,22.24
+The Quiet Man,1952,John Ford,1,3,1950,,129,7.8,35805,,10.55
+Amour,2012,Michael Haneke,1,1,2010,UA,127,7.9,95023,94.0,6.74
+PK,2014,Rajkumar Hirani,1,3,2010,UA,153,8.1,168322,,10.62
+All the President's Men,1976,Alan J. Pakula,1,3,1970,U,138,8.0,105920,84.0,70.6
+Me and Earl and the Dying Girl,2015,Alfonso Gomez-Rejon,1,2,2010,PG,105,7.7,125553,74.0,6.74
+The Wild Bunch,1969,Sam Peckinpah,1,3,1960,A,145,7.9,78805,97.0,12.06
+Giant,1956,George Stevens,1,2,1950,U,201,7.6,34933,84.0,
+Kaze tachinu,2013,Hayao Miyazaki,1,3,2010,PG,126,7.8,76712,83.0,5.21
+Sabrina,1954,Billy Wilder,1,3,1950,,113,7.7,60764,72.0,
+Judgment at Nuremberg,1961,Stanley Kramer,1,2,1960,A,179,8.2,71556,60.0,
+Once Were Warriors,1994,Lee Tamahori,1,2,1990,A,102,7.9,32084,77.0,2.2
+La grande bellezza,2013,Paolo Sorrentino,1,1,2010,,141,7.8,82985,86.0,2.85
+La dolce vita,1960,Federico Fellini,1,2,1960,A,174,8.0,68303,95.0,19.52
+The Third Man,1949,Carol Reed,1,3,1940,U,104,8.1,161937,97.0,0.45
+Gaslight,1944,George Cukor,1,3,1940,,114,7.8,25538,,
+Dial M for Murder,1954,Alfred Hitchcock,1,2,1950,A,105,8.2,162353,75.0,0.01
+Being There,1979,Hal Ashby,1,2,1970,,130,8.0,67147,83.0,30.18
+Kubo and the Two Strings,2016,Travis Knight,1,3,2010,U,101,7.8,120795,84.0,48.02
+Manhattan,1979,Woody Allen,1,3,1970,,96,7.9,133350,83.0,45.7
+Happiness,1998,Todd Solondz,1,2,1990,,134,7.7,67340,81.0,2.81
+Hedwig and the Angry Inch,2001,John Cameron Mitchell,1,3,2000,R,95,7.7,32475,85.0,3.03
+Withnail & I,1987,Bruce Robinson,1,2,1980,,107,7.6,41332,84.0,1.54
+Double Indemnity,1944,Billy Wilder,1,3,1940,,107,8.3,146743,95.0,5.72
+Escape from Alcatraz,1979,Don Siegel,1,3,1970,U,112,7.6,124718,76.0,43.0
+"South Park: Bigger, Longer & Uncut",1999,Trey Parker,1,3,1990,A,81,7.7,194412,73.0,52.04
+Beasts of No Nation,2015,Cary Joji Fukunaga,1,2,2010,,137,7.7,75903,79.0,0.08
+The Great Dictator,1940,Charles Chaplin,1,3,1940,,125,8.4,207735,,0.29
+Breaking the Waves,1996,Lars von Trier,1,1,1990,R,159,7.8,63595,76.0,4.04
+The Verdict,1982,Sidney Lumet,1,1,1980,U,129,7.7,37064,77.0,54.0
+Dare mo shiranai,2004,Hirokazu Koreeda,1,1,2000,PG,141,8.1,25659,88.0,0.68
+The Best Years of Our Lives,1946,William Wyler,1,3,1940,,170,8.1,58342,93.0,23.65
+Bajrangi Bhaijaan,2015,Kabir Khan,1,3,2010,UA,163,8.0,78619,,8.18
+Lola rennt,1998,Tom Tykwer,1,3,1990,UA,81,7.7,190519,77.0,7.27
+Mimi wo sumaseba,1995,Yoshifumi Kondô,1,3,1990,U,111,7.9,54801,75.0,
+Le locataire,1976,Roman Polanski,1,2,1970,UA,126,7.7,41074,71.0,1.92
+Touch of Evil,1958,Orson Welles,1,3,1950,PG,95,8.0,99868,99.0,2.24
+Abre los ojos,1997,Alejandro Amenábar,1,3,1990,U,119,7.7,65092,,0.37
+Fanny och Alexander,1982,Ingmar Bergman,1,1,1980,A,188,8.1,58942,100.0,4.97
+Who's Afraid of Virginia Woolf?,1966,Mike Nichols,1,1,1960,A,131,8.0,70262,75.0,
+Cowboy Bebop: Tengoku no tobira,2001,"Shin'ichirô Watanabe, Tensai Okamura, Hiroyuki Okiura, Yoshiyuki Takei",4,3,2000,U,115,7.9,43980,61.0,1.0
+The Treasure of the Sierra Madre,1948,John Huston,1,3,1940,,126,8.2,116722,98.0,5.01
+The Killing Fields,1984,Roland Joffé,1,3,1980,A,141,7.8,52633,76.0,34.7
+Ayla: The Daughter of War,2017,Can Ulkay,1,3,2010,,125,8.4,35953,,
+La Vie En Rose,2007,Olivier Dahan,1,3,2000,PG,140,7.6,83865,66.0,10.3
+Frankenstein,1931,James Whale,1,3,1930,,70,7.8,66680,91.0,
+Die Welle,2008,Dennis Gansel,1,2,2000,,107,7.6,104600,,
+Zindagi Na Milegi Dobara,2011,Zoya Akhtar,1,2,2010,U,155,8.2,70452,,3.11
+Trois couleurs: Bleu,1993,Krzysztof Kieslowski,1,3,1990,U,94,7.9,92848,85.0,1.32
+Strangers on a Train,1951,Alfred Hitchcock,1,3,1950,A,101,8.0,125292,88.0,7.63
+La leggenda del pianista sull'oceano,1998,Giuseppe Tornatore,1,3,1990,U,169,8.1,60295,58.0,0.26
+Bãhubali: The Beginning,2015,S.S. Rajamouli,1,2,2010,UA,159,8.0,106242,,6.74
+Les quatre cents coups,1959,François Truffaut,1,2,1950,U,99,8.1,108529,,
+The Day the Earth Stood Still,1951,Robert Wise,1,2,1950,U,92,7.7,77044,,
+Rashomon,1950,Akira Kurosawa,1,3,1950,U,88,8.2,156405,98.0,0.1
+King Kong,1933,"Merian C. Cooper, Ernest B. Schoedsack",2,3,1930,,100,7.9,80811,90.0,10.0
+Gilda,1946,Charles Vidor,1,3,1940,,110,7.7,28771,,
+Paper Moon,1973,Peter Bogdanovich,1,3,1970,U,102,8.1,43263,77.0,30.93
+The Day of the Jackal,1973,Fred Zinnemann,1,3,1970,A,143,7.8,38307,80.0,16.06
+Mou gaan dou,2002,"Andrew Lau, Alan Mak",2,3,2000,UA,101,8.0,119296,75.0,0.17
+Kurenai no buta,1992,Hayao Miyazaki,1,3,1990,U,94,7.7,80882,83.0,
+Mary and Max.,2009,Adam Elliot,1,3,2000,,92,8.1,167665,,
+The Lion in Winter,1968,Anthony Harvey,1,3,1960,U,134,7.9,29535,,22.28
+Yojinbo,1961,Akira Kurosawa,1,3,1960,U,110,8.2,114132,,
+Dara iz Jasenovca,2020,Predrag Antonijevic,1,2,2020,R,130,8.3,34858,,
+Tengoku to jigoku,1963,Akira Kurosawa,1,3,1960,,143,8.4,37083,,
+K.G.F: Chapter 1,2018,Prashanth Neel,1,3,2010,UA,156,8.2,41936,,
+Watership Down,1978,"Martin Rosen, John Hubley",2,3,1970,U,91,7.6,34416,64.0,
+The Philadelphia Story,1940,George Cukor,1,2,1940,,112,7.9,64804,96.0,
+Dead Man's Shoes,2004,Shane Meadows,1,3,2000,,90,7.6,50622,52.0,0.01
+Un long dimanche de fiançailles,2004,Jean-Pierre Jeunet,1,3,2000,U,133,7.6,71536,76.0,6.17
+The Grapes of Wrath,1940,John Ford,1,2,1940,,129,8.1,86696,96.0,0.06
+La planète sauvage,1973,René Laloux,1,2,1970,U,72,7.8,26901,73.0,0.19
+Waking Life,2001,Richard Linklater,1,3,2000,R,99,7.8,61578,83.0,2.89
+Down by Law,1986,Jim Jarmusch,1,3,1980,,107,7.7,48896,75.0,1.44
+City Lights,1931,Charles Chaplin,1,3,1930,PG,87,8.5,171906,99.0,0.02
+Bin-jip,2004,Kim Ki-duk,1,3,2000,U,88,8.0,51966,72.0,0.24
+Victoria (II),2015,Sebastian Schipper,1,3,2010,,138,7.6,54790,77.0,
+Lat sau san taam,1992,John Woo,1,3,1990,A,128,7.8,47550,,
+Death Note: Desu nôto,2006,Shûsuke Kaneko,1,3,2000,,126,7.7,29079,,
+Cat on a Hot Tin Roof,1958,Richard Brooks,1,1,1950,A,108,8.0,46346,84.0,17.57
+Philomena,2013,Stephen Frears,1,3,2010,PG,98,7.6,95742,77.0,37.71
+Repulsion,1965,Roman Polanski,1,3,1960,,105,7.7,49917,91.0,
+Fantasia,1940,"James Algar, Samuel Armstrong, Ford Beebe Jr., Norman Ferguson, David Hand, Jim Handley, T. Hee, Wilfred Jackson, Hamilton Luske, Bill Roberts, Paul Satterfield, Ben Sharpsteen",12,3,1940,U,125,7.7,90338,96.0,76.41
+Perfetti sconosciuti,2016,Paolo Genovese,1,2,2010,,96,7.8,59244,,
+Fitzcarraldo,1982,Werner Herzog,1,2,1980,,158,8.1,32475,,
+The Station Agent,2003,Tom McCarthy,1,2,2000,R,89,7.6,68056,81.0,5.74
+The Muppet Movie,1979,James Frawley,1,3,1970,U,95,7.6,33583,74.0,76.66
+Il conformista,1970,Bernardo Bertolucci,1,1,1970,UA,113,8.0,28022,100.0,0.54
+Adams æbler,2005,Anders Thomas Jensen,1,3,2000,R,94,7.8,47119,51.0,0.0
+Uri: The Surgical Strike,2018,Aditya Dhar,1,3,2010,UA,138,8.2,46118,,4.19
+Das weiße Band - Eine deutsche Kindergeschichte,2009,Michael Haneke,1,3,2000,UA,144,7.8,69912,82.0,2.22
+Tropa de Elite,2007,José Padilha,1,3,2000,R,115,8.0,99526,33.0,0.01
+Secrets & Lies,1996,Mike Leigh,1,2,1990,U,136,8.0,38922,91.0,13.42
+Ondskan,2003,Mikael Håfström,1,1,2000,,113,7.8,36165,61.0,0.02
+All Quiet on the Western Front,1930,Lewis Milestone,1,2,1930,U,152,8.1,58088,91.0,3.27
+Gegen die Wand,2004,Fatih Akin,1,2,2000,R,121,7.9,52111,78.0,
+Diarios de motocicleta,2004,Walter Salles,1,3,2000,U,126,7.8,98083,75.0,16.76
+Omoide no Mânî,2014,"James Simone, Hiromasa Yonebayashi",2,3,2010,U,103,7.7,34876,72.0,0.77
+Kagemusha,1980,Akira Kurosawa,1,3,1980,U,180,8.0,33069,84.0,
+Giù la testa,1971,Sergio Leone,1,3,1970,A,157,7.6,30996,77.0,0.7
+Wait Until Dark,1967,Terence Young,1,1,1960,A,108,7.8,28345,81.0,17.55
+Todo sobre mi madre,1999,Pedro Almodóvar,1,1,1990,R,101,7.9,91184,87.0,8.26
+Nelyubov,2017,Andrey Zvyagintsev,1,1,2010,R,127,7.6,30914,86.0,0.57
+Leviafan,2014,Andrey Zvyagintsev,1,2,2010,R,140,7.6,50559,92.0,1.09
+Under sandet,2015,Martin Zandvliet,1,3,2010,R,100,7.8,37303,75.0,0.44
+Mr. Smith Goes to Washington,1939,Frank Capra,1,2,1930,U,129,8.1,109093,73.0,9.6
+Rockstar,2011,Imtiaz Ali,1,3,2010,UA,159,7.7,40881,,0.99
+Sacrifice,1986,Andrei Tarkovsky,1,1,1980,U,149,8.1,25521,,0.3
+Inherit the Wind,1960,Stanley Kramer,1,3,1960,,128,8.1,28042,75.0,
+Shadow of a Doubt,1943,Alfred Hitchcock,1,2,1940,,108,7.8,60930,94.0,
+Shine,1996,Scott Hicks,1,3,1990,U,105,7.7,52093,87.0,35.81
+Dom za vesanje,1988,Emir Kusturica,1,3,1980,,142,8.2,28452,,0.28
+Frost/Nixon,2008,Ron Howard,1,3,2000,U,122,7.7,104494,80.0,18.59
+Freaks,1932,Tod Browning,1,2,1930,,64,7.9,42848,80.0,
+A Hard Day's Night,1964,Richard Lester,1,2,1960,U,87,7.6,41068,96.0,13.78
+His Girl Friday,1940,Howard Hawks,1,3,1940,,92,7.9,54767,,0.3
+Le passé,2013,Asghar Farhadi,1,2,2010,PG,130,7.7,45809,85.0,1.33
+Amarcord,1973,Federico Fellini,1,2,1970,,123,7.9,40808,,0.58
+Le Petit Prince,2015,Mark Osborne,1,3,2010,PG,108,7.7,58151,70.0,1.34
+Interstate 60: Episodes of the Road,2002,Bob Gale,1,3,2000,R,116,7.7,30535,,
+Kaguyahime no monogatari,2013,Isao Takahata,1,3,2010,U,137,8.0,40869,89.0,1.51
+The Lunchbox,2013,Ritesh Batra,1,2,2010,U,104,7.8,52188,76.0,4.23
+Pink (III),2016,Aniruddha Roy Chowdhury,1,3,2010,UA,136,8.1,41026,,1.24
+Le salaire de la peur,1953,Henri-Georges Clouzot,1,3,1950,U,131,8.1,56188,85.0,
+Ivanovo detstvo,1962,"Andrei Tarkovsky, Eduard Abalov",2,2,1960,A,95,8.1,32941,,
+The Red Shoes,1948,"Michael Powell, Emeric Pressburger",2,3,1940,,135,8.1,31841,,10.9
+Special Chabbis,2013,Neeraj Pandey,1,3,2010,UA,144,8.0,52414,,1.08
+Bringing Up Baby,1938,Howard Hawks,1,3,1930,,102,7.9,56294,91.0,
+Sunrise: A Song of Two Humans,1927,F.W. Murnau,1,2,1920,,94,8.1,47851,,0.54
+Batman: Mask of the Phantasm,1993,"Kevin Altieri, Boyd Kirkland, Frank Paur, Dan Riba, Eric Radomski, Bruce Timm",6,3,1990,PG,76,7.8,45135,,5.62
+Dil Chahta Hai,2001,Farhan Akhtar,1,3,2000,PG,183,8.1,68203,,0.3
+Ôkami kodomo no Ame to Yuki,2012,Mamoru Hosoda,1,3,2010,U,117,8.1,40337,71.0,
+Chhichhore,2019,Nitesh Tiwari,1,2,2010,UA,143,8.3,38786,,0.9
+Darbareye Elly,2009,Asghar Farhadi,1,2,2000,,119,8.0,47666,87.0,0.11
+Baahubali 2: The Conclusion,2017,S.S. Rajamouli,1,2,2010,UA,167,8.2,78648,,20.19
+The Message,1976,Moustapha Akkad,1,3,1970,,177,8.2,44844,,
+Tôkyô monogatari,1953,Yasujirô Ozu,1,1,1950,U,136,8.2,55354,,
+Key Largo,1948,John Huston,1,3,1940,,100,7.8,37727,,
+Persepolis,2007,"Vincent Paronnaud, Marjane Satrapi",2,3,2000,PG,96,8.0,90251,90.0,4.45
+Lilja 4-ever,2002,Lukas Moodysson,1,2,2000,R,109,7.8,43419,82.0,0.18
+Höstsonaten,1978,Ingmar Bergman,1,2,1970,U,99,8.2,29219,,
+Kahaani,2012,Sujoy Ghosh,1,2,2010,UA,122,8.1,59135,,1.04
+Du rififi chez les hommes,1955,Jules Dassin,1,3,1950,,118,8.1,30809,97.0,0.06
+Kakushi-toride no san-akunin,1958,Akira Kurosawa,1,2,1950,,139,8.1,35906,,
+Bride of Frankenstein,1935,James Whale,1,3,1930,,75,7.8,44331,95.0,4.36
+The General,1926,"Clyde Bruckman, Buster Keaton",2,3,1920,,67,8.1,83122,,1.03
+Les diaboliques,1955,Henri-Georges Clouzot,1,3,1950,,117,8.1,62463,,
+Efter brylluppet,2006,Susanne Bier,1,1,2000,R,120,7.7,32946,78.0,0.41
+Dilwale Dulhania Le Jayenge,1995,Aditya Chopra,1,2,1990,U,189,8.1,65209,,
+Les yeux sans visage,1960,Georges Franju,1,2,1960,,90,7.7,28528,90.0,0.05
+Il postino,1994,"Michael Radford, Massimo Troisi",2,3,1990,U,108,7.7,34376,81.0,21.85
+Kal Hee,1991,Isao Takahata,1,3,1990,U,118,7.6,28497,90.0,0.45
+Kis Uykusu,2014,Nuri Bilge Ceylan,1,1,2010,,196,8.1,48232,88.0,0.17
+Talvar,2015,Meghna Gulzar,1,3,2010,UA,132,8.2,32354,,0.34
+Les choristes,2004,Christophe Barratier,1,3,2000,PG,97,7.9,58660,56.0,3.64
+Au revoir les enfants,1987,Louis Malle,1,2,1980,U,104,8.0,31918,88.0,4.54
+Celda 211,2009,Daniel Monzón,1,3,2000,,113,7.6,64893,,
+Jab We Met,2007,Imtiaz Ali,1,3,2000,U,138,7.9,49071,,0.41
+Badhaai ho,2018,Amit Ravindernath Sharma,1,2,2010,UA,124,8.0,29582,,
+Harvey,1950,Henry Koster,1,3,1950,,104,7.9,53158,,
+"Crna macka, beli macor",1998,Emir Kusturica,1,3,1990,R,127,8.1,51702,73.0,0.35
+The Magdalene Sisters,2002,Peter Mullan,1,1,2000,R,114,7.7,26274,83.0,4.89
+Ace in the Hole,1951,Billy Wilder,1,2,1950,,111,8.1,32558,72.0,3.97
+Rang De Basanti,2006,Rakeysh Omprakash Mehra,1,3,2000,UA,167,8.1,114521,,2.2
+Crimes and Misdemeanors,1989,Woody Allen,1,2,1980,,104,7.9,55622,77.0,18.25
+Haider,2014,Vishal Bhardwaj,1,3,2010,UA,160,8.1,51402,,0.9
+Kumonosu-jo,1957,Akira Kurosawa,1,2,1950,U,110,8.1,48070,,
+Yeopgijeogin geunyeo,2001,Jae-young Kwak,1,3,2000,,137,8.0,46024,,
+Andaz Apna Apna,1994,Rajkumar Santoshi,1,3,1990,U,160,8.1,50859,,
+The Thin Man,1934,W.S. Van Dyke,1,3,1930,,91,8.0,27322,86.0,
+La passion de Jeanne d'Arc,1928,Carl Theodor Dreyer,1,3,1920,,110,8.1,49394,,0.02
+Babam ve Oglum,2005,Cagan Irmak,1,2,2000,,112,8.3,81323,,
+Veer-Zaara,2004,Yash Chopra,1,3,2000,U,192,7.8,50155,67.0,2.92
+Okuribito,2008,Yôjirô Takita,1,2,2000,PG,130,8.1,49451,68.0,1.5
+La Strada,1954,Federico Fellini,1,1,1950,,108,8.0,59441,,
+Dip huet seung hung,1989,John Woo,1,3,1980,R,111,7.8,46246,82.0,
+The Visitor (I),2007,Tom McCarthy,1,1,2000,PG,104,7.6,41869,79.0,9.42
+Bir Zamanlar Anadolu'da,2011,Nuri Bilge Ceylan,1,2,2010,,157,7.9,43523,82.0,0.14
+Dà hóng denglong gaogao guà,1991,Yimou Zhang,1,3,1990,,125,8.1,30350,,2.6
+Jungfrukällan,1960,Ingmar Bergman,1,1,1960,A,89,8.1,27335,,1.53
+Kokuhaku,2010,Tetsuya Nakashima,1,2,2010,,106,7.7,36490,,
+Tropa de Elite 2: O Inimigo Agora é Outro,2010,José Padilha,1,3,2010,,115,8.0,80173,71.0,0.1
+Bronenosets Potemkin,1925,Sergei M. Eisenstein,1,3,1920,,75,8.0,54235,97.0,0.05
+The Secret of Kells,2009,"Tomm Moore, Nora Twomey",2,3,2000,,71,7.6,33056,81.0,0.69
+Kal Ho Naa Ho,2003,Nikkhil Advani,1,3,2000,U,186,7.9,65044,54.0,1.79
+Hana-bi,1997,Takeshi Kitano,1,3,1990,,103,7.8,28486,,0.23
+Jules et Jim,1962,François Truffaut,1,2,1960,,105,7.8,38653,97.0,
+Kind Hearts and Coronets,1949,Robert Hamer,1,2,1940,U,106,8.0,35124,,
+Bhaag Milkha Bhaag,2013,Rakeysh Omprakash Mehra,1,3,2010,U,186,8.2,62822,,1.63
+White Heat,1949,Raoul Walsh,1,3,1940,,114,8.1,30480,,
+Dev.D,2009,Anurag Kashyap,1,2,2000,A,144,8.0,29306,,0.01
+"4 luni, 3 saptamâni si 2 zile",2007,Cristian Mungiu,1,1,2000,,113,7.9,57591,97.0,1.19
+No Man's Land (I),2001,Danis Tanovic,1,3,2000,R,98,7.9,45357,84.0,1.06
+Hiroshima mon amour,1959,Alain Resnais,1,2,1950,,90,7.9,29332,,0.09
+Les triplettes de Belleville,2003,Sylvain Chomet,1,3,2000,PG,80,7.8,51253,91.0,7.0
+Baby (I),2015,Neeraj Pandey,1,2,2010,UA,159,8.0,54048,,
+Paan Singh Tomar,2012,Tigmanshu Dhulia,1,3,2010,UA,135,8.2,34205,,0.04
+The Shop Around the Corner,1940,Ernst Lubitsch,1,3,1940,,99,8.1,29199,96.0,0.2
+Duck Soup,1933,Leo McCarey,1,3,1930,,69,7.8,56330,93.0,
+Udaan,2010,Vikramaditya Motwane,1,1,2010,UA,134,8.1,43233,,0.01
+Sholay,1975,Ramesh Sippy,1,3,1970,U,204,8.2,52560,,
+Central do Brasil,1998,Walter Salles,1,1,1990,R,110,8.0,37265,80.0,5.6
+Love and Death,1975,Woody Allen,1,2,1970,,85,7.7,36726,89.0,
+Vicky Donor,2012,Shoojit Sircar,1,2,2010,UA,126,7.8,40630,,0.17
+Black,2005,Sanjay Leela Bhansali,1,1,2000,U,122,8.2,33801,,0.73
+Chak De! India,2007,Shimit Amin,1,3,2000,U,153,8.2,75861,68.0,1.11
+Sanjuro,1962,Akira Kurosawa,1,3,1960,U,96,8.1,34040,,
+Raazi,2018,Meghna Gulzar,1,3,2010,UA,138,7.8,26612,,
+Taegukgi hwinalrimyeo,2004,Je-kyu Kang,1,3,2000,R,140,8.0,38238,64.0,1.11
+Joyeux Noël,2005,Christian Carion,1,3,2000,PG,116,7.7,28297,70.0,1.05
+Le dîner de cons,1998,Francis Veber,1,1,1990,PG,80,7.7,38119,73.0,4.07
+Munna Bhai M.B.B.S.,2003,Rajkumar Hirani,1,2,2000,U,156,8.1,75897,,
+The Muppet Christmas Carol,1992,Brian Henson,1,3,1990,,85,7.7,50954,64.0,27.28
+Nefes: Vatan Sagolsun,2009,"Levent Semerci, Erdem Can",2,3,2000,,128,8.0,32384,,
+Anand,1971,Hrishikesh Mukherjee,1,2,1970,U,122,8.3,31963,,
+Das Cabinet des Dr. Caligari,1920,Robert Wiene,1,3,1920,,76,8.1,58710,,
+The Kid,1921,Charles Chaplin,1,3,1920,,68,8.3,116920,,5.45
+Nosferatu,1922,F.W. Murnau,1,2,1920,,94,7.9,90337,,
+Sherlock Jr.,1924,Buster Keaton,1,3,1920,,45,8.2,43939,,0.98
+The Gold Rush,1925,Charles Chaplin,1,3,1920,,95,8.2,103703,,5.45
+The Circus,1928,Charles Chaplin,1,2,1920,,72,8.1,31091,90.0,
+Scarface,1932,"Howard Hawks, Richard Rosson",2,3,1930,,93,7.8,25945,87.0,
+The Invisible Man,1933,James Whale,1,2,1930,,71,7.7,31524,87.0,
+The 39 Steps,1935,Alfred Hitchcock,1,3,1930,,86,7.7,53191,93.0,
+A Night at the Opera,1935,"Sam Wood, Edmund Goulding",2,3,1930,,96,7.9,31094,,2.54
+Modern Times,1936,Charles Chaplin,1,3,1930,,87,8.5,223740,96.0,0.16
+La Grande Illusion,1937,Jean Renoir,1,2,1930,,113,8.1,34447,,0.17
+The Adventures of Robin Hood,1938,"Michael Curtiz, William Keighley",2,3,1930,PG,102,7.9,47979,97.0,3.98
+The Lady Vanishes,1938,Alfred Hitchcock,1,2,1930,,96,7.8,48620,98.0,
+La règle du jeu,1939,Jean Renoir,1,2,1930,,110,8.0,27231,,
+Stagecoach,1939,John Ford,1,3,1930,,96,7.9,44982,93.0,
+To Be or Not to Be,1942,Ernst Lubitsch,1,3,1940,,99,8.2,31928,86.0,
+Lifeboat,1944,Alfred Hitchcock,1,2,1940,,97,7.6,27022,78.0,
+To Have and Have Not,1944,Howard Hawks,1,3,1940,PG,100,7.8,31798,90.0,
+Brief Encounter,1945,David Lean,1,2,1940,U,86,8.0,36886,92.0,
+The Lost Weekend,1945,Billy Wilder,1,2,1940,,101,7.9,34306,,9.46
+The Big Sleep,1946,Howard Hawks,1,3,1940,,114,7.9,79884,,6.54
+Notorious,1946,Alfred Hitchcock,1,3,1940,U,102,8.0,93954,100.0,10.46
+Miracle on 34th Street,1947,George Seaton,1,3,1940,,96,7.9,42117,88.0,2.65
+Out of the Past,1947,Jacques Tourneur,1,3,1940,,97,8.0,33708,,
+Ladri di biciclette,1948,Vittorio De Sica,1,1,1940,,89,8.3,150705,,0.33
+Red River,1948,"Howard Hawks, Arthur Rosson",2,3,1940,,133,7.8,28854,,
+All About Eve,1950,Joseph L. Mankiewicz,1,1,1950,,138,8.2,123066,98.0,0.01
+In a Lonely Place,1950,Nicholas Ray,1,3,1950,,94,8.0,27875,,
+Sunset Blvd.,1950,Billy Wilder,1,2,1950,,110,8.4,206224,,
+The African Queen,1951,John Huston,1,3,1950,U,105,7.8,72862,91.0,0.54
+High Noon,1952,Fred Zinnemann,1,3,1950,U,85,8.0,98965,89.0,9.45
+Ikiru,1952,Akira Kurosawa,1,1,1950,U,143,8.3,70999,,0.06
+From Here to Eternity,1953,Fred Zinnemann,1,3,1950,,118,7.6,44252,85.0,30.5
+Roman Holiday,1953,William Wyler,1,2,1950,U,118,8.0,129802,78.0,
+Stalag 17,1953,Billy Wilder,1,3,1950,,120,8.0,51674,84.0,
+Shichinin no samurai,1954,Akira Kurosawa,1,3,1950,U,207,8.6,322649,98.0,0.27
+East of Eden,1955,Elia Kazan,1,1,1950,U,118,7.9,41397,72.0,
+Rebel Without a Cause,1955,Nicholas Ray,1,1,1950,U,111,7.7,85224,89.0,
+Invasion of the Body Snatchers,1956,Don Siegel,1,3,1950,,80,7.7,45849,92.0,
+The Killing,1956,Stanley Kubrick,1,3,1950,,84,8.0,83375,91.0,
+Le notti di Cabiria,1957,Federico Fellini,1,1,1950,,110,8.1,44120,,0.75
+Smultronstället,1957,Ingmar Bergman,1,2,1950,U,91,8.2,99209,88.0,
+Sweet Smell of Success,1957,Alexander Mackendrick,1,2,1950,U,96,8.0,29036,100.0,
+Vertigo,1958,Alfred Hitchcock,1,3,1950,A,128,8.3,372884,100.0,3.2
+Anatomy of a Murder,1959,Otto Preminger,1,3,1950,A,161,8.0,61292,95.0,11.9
+North by Northwest,1959,Alfred Hitchcock,1,3,1950,U,136,8.3,305086,98.0,13.28
+Rio Bravo,1959,Howard Hawks,1,3,1950,,141,8.0,57660,93.0,12.54
+À bout de souffle,1960,Jean-Luc Godard,1,2,1960,U,90,7.8,75128,,0.34
+L'avventura,1960,Michelangelo Antonioni,1,3,1960,U,144,7.9,27347,,
+Peeping Tom,1960,Michael Powell,1,3,1960,,101,7.7,32368,,0.08
+Breakfast at Tiffany's,1961,Blake Edwards,1,3,1960,A,115,7.6,170169,76.0,
+The Hustler,1961,Robert Rossen,1,2,1960,A,134,8.0,76362,90.0,8.28
+The Innocents,1961,Jack Clayton,1,1,1960,A,100,7.8,27778,88.0,2.62
+Cape Fear,1962,J. Lee Thompson,1,2,1960,A,106,7.7,27029,76.0,
+Lawrence of Arabia,1962,David Lean,1,3,1960,U,228,8.3,273651,100.0,44.82
+The Longest Day,1962,"Ken Annakin, Andrew Marton, Gerd Oswald, Bernhard Wicki, Darryl F. Zanuck",5,3,1960,U,178,7.8,52941,75.0,39.1
+The Man Who Shot Liberty Valance,1962,John Ford,1,2,1960,U,123,8.1,70761,94.0,
+The Manchurian Candidate,1962,John Frankenheimer,1,2,1960,A,126,7.9,72249,94.0,
+Vivre sa vie: Film en douze tableaux,1962,Jean-Luc Godard,1,1,1960,,80,8.0,29147,,
+What Ever Happened to Baby Jane?,1962,Robert Aldrich,1,3,1960,A,134,8.1,51445,75.0,4.05
+El ángel exterminador,1962,Luis Buñuel,1,2,1960,,95,8.1,30478,,
+Mary Poppins,1964,Robert Stevenson,1,3,1960,U,139,7.8,160979,88.0,102.27
+My Fair Lady,1964,George Cukor,1,3,1960,U,170,7.8,88778,95.0,72.0
+Zulu,1964,Cy Endfield,1,3,1960,U,138,7.7,36851,77.0,
+La battaglia di Algeri,1966,Gillo Pontecorvo,1,2,1960,,121,8.1,54863,96.0,0.06
+The Sound of Music,1965,Robert Wise,1,3,1960,U,172,8.0,211373,63.0,163.21
+Andrei Rublev,1966,Andrei Tarkovsky,1,3,1960,,205,8.1,48844,,0.1
+A Man for All Seasons,1966,Fred Zinnemann,1,3,1960,U,120,7.7,32271,72.0,28.35
+Belle de jour,1967,Luis Buñuel,1,2,1960,A,100,7.7,41375,,0.03
+Guess Who's Coming to Dinner,1967,Stanley Kramer,1,2,1960,,108,7.8,40804,63.0,56.7
+Le samouraï,1967,Jean-Pierre Melville,1,3,1960,,105,8.1,46937,,0.04
+The Odd Couple,1968,Gene Saks,1,1,1960,,105,7.7,32402,86.0,44.53
+Patton,1970,Franklin J. Schaffner,1,3,1970,U,172,7.9,95141,91.0,61.7
+Harold and Maude,1971,Hal Ashby,1,3,1970,,91,7.9,72190,62.0,
+"Aguirre, der Zorn Gottes",1972,Werner Herzog,1,3,1970,,95,7.9,53571,,
+Le charme discret de la bourgeoisie,1972,Luis Buñuel,1,1,1970,,102,7.9,39844,93.0,0.2
+Sleuth,1972,Joseph L. Mankiewicz,1,2,1970,,138,8.0,45396,,4.08
+Viskningar och rop,1972,Ingmar Bergman,1,1,1970,A,91,8.1,31188,,1.74
+Papillon,1973,Franklin J. Schaffner,1,3,1970,R,151,8.0,124145,58.0,53.27
+Monty Python and the Holy Grail,1975,"Terry Gilliam, Terry Jones",2,3,1970,U,91,8.2,509152,91.0,1.23
+The Taking of Pelham One Two Three,1974,Joseph Sargent,1,3,1970,U,104,7.7,27678,68.0,2.49
+Zerkalo,1975,Andrei Tarkovsky,1,2,1970,,107,8.1,41517,80.0,0.18
+The Man Who Would Be King,1975,John Huston,1,3,1970,U,129,7.8,46037,91.0,
+Network,1976,Sidney Lumet,1,1,1970,UA,121,8.1,148083,83.0,
+The Outlaw Josey Wales,1976,Clint Eastwood,1,1,1970,UA,135,7.8,67468,69.0,31.8
+Taxi Driver,1976,Martin Scorsese,1,2,1970,A,114,8.3,744989,94.0,28.26
+Annie Hall,1977,Woody Allen,1,2,1970,A,93,8.0,254998,92.0,39.2
+Dawn of the Dead,1978,George A. Romero,1,2,1970,A,127,7.9,113598,71.0,5.1
+Days of Heaven,1978,Terrence Malick,1,2,1970,,94,7.8,54302,93.0,
+All That Jazz,1979,Bob Fosse,1,3,1970,A,123,7.9,28956,72.0,37.82
+Rupan sansei: Kariosutoro no shiro,1979,Hayao Miyazaki,1,3,1970,U,100,7.7,28072,71.0,
+Mad Max 2,1981,George Miller,1,3,1980,UA,96,7.6,169602,77.0,12.47
+On Golden Pond,1981,Mark Rydell,1,1,1980,UA,109,7.6,28454,68.0,119.29
+The Thing,1982,John Carpenter,1,3,1980,A,109,8.1,380559,57.0,13.78
+A Christmas Story,1983,Bob Clark,1,2,1980,U,93,7.9,134017,77.0,20.61
+Zelig,1983,Woody Allen,1,1,1980,,79,7.7,40500,,11.8
+Amadeus,1984,Milos Forman,1,3,1980,R,160,8.3,376243,88.0,51.97
+Once Upon a Time in America,1984,Sergio Leone,1,2,1980,A,229,8.4,319780,,5.32
+The Color Purple,1985,Steven Spielberg,1,1,1980,U,154,7.8,80569,78.0,98.47
+The Purple Rose of Cairo,1985,Woody Allen,1,3,1980,U,82,7.7,47930,75.0,10.63
+Aliens,1986,James Cameron,1,3,1980,U,137,8.3,665486,84.0,85.16
+Hannah and Her Sisters,1986,Woody Allen,1,2,1980,,107,7.9,68357,90.0,40.08
+Platoon,1986,Oliver Stone,1,2,1980,UA,120,8.1,388449,92.0,138.53
+Stand by Me,1986,Rob Reiner,1,2,1980,U,89,8.1,371832,75.0,52.29
+Tenkû no shiro Rapyuta,1986,Hayao Miyazaki,1,3,1980,U,125,8.0,154016,78.0,
+Empire of the Sun,1987,Steven Spielberg,1,3,1980,U,153,7.7,118184,62.0,22.24
+Full Metal Jacket,1987,Stanley Kubrick,1,2,1980,UA,116,8.3,688872,76.0,46.36
+The Last Emperor,1987,Bernardo Bertolucci,1,3,1980,U,163,7.7,96757,76.0,43.98
+Lethal Weapon,1987,Richard Donner,1,3,1980,A,109,7.6,241409,68.0,65.21
+The Princess Bride,1987,Rob Reiner,1,3,1980,U,98,8.1,400381,77.0,30.86
+The Untouchables,1987,Brian De Palma,1,3,1980,A,119,7.9,288380,79.0,76.27
+Spoorloos,1988,George Sluizer,1,2,1980,,107,7.7,34793,,
+Tonari no Totoro,1988,Hayao Miyazaki,1,3,1980,U,86,8.2,302397,86.0,1.11
+My Left Foot: The Story of Christy Brown,1989,Jim Sheridan,1,2,1980,U,103,7.9,69859,97.0,14.74
+When Harry Met Sally...,1989,Rob Reiner,1,3,1980,UA,95,7.6,200733,76.0,92.82
+The Godfather: Part III,1990,Francis Ford Coppola,1,2,1990,A,162,7.6,369132,60.0,66.67
+Boyz n the Hood,1991,John Singleton,1,2,1990,A,112,7.8,129490,76.0,57.5
+Delicatessen,1991,"Marc Caro, Jean-Pierre Jeunet",2,2,1990,R,99,7.6,81757,66.0,1.79
+La double vie de Véronique,1991,Krzysztof Kieslowski,1,3,1990,R,98,7.8,43981,86.0,2.0
+Night on Earth,1991,Jim Jarmusch,1,2,1990,R,129,7.7,56724,68.0,2.02
+Malcolm X,1992,Spike Lee,1,3,1990,U,202,7.7,88287,73.0,48.17
+My Cousin Vinny,1992,Jonathan Lynn,1,2,1990,UA,120,7.6,111257,68.0,52.93
+Reservoir Dogs,1992,Quentin Tarantino,1,3,1990,PG,99,8.3,939502,79.0,2.83
+Unforgiven,1992,Clint Eastwood,1,2,1990,A,130,8.2,383950,85.0,101.16
+Ba wang bie ji,1993,Kaige Chen,1,3,1990,R,171,8.1,25835,,5.22
+Bound by Honor,1993,Taylor Hackford,1,2,1990,R,180,8.0,29356,47.0,4.5
+A Bronx Tale,1993,Robert De Niro,1,3,1990,R,121,7.8,131179,80.0,17.27
+The Fugitive,1993,Andrew Davis,1,3,1990,U,130,7.8,273531,87.0,183.88
+In the Name of the Father,1993,Jim Sheridan,1,3,1990,UA,133,8.1,162302,84.0,25.01
+Jurassic Park,1993,Steven Spielberg,1,3,1990,UA,127,8.1,889558,68.0,402.45
+Jûbê ninpûchô,1993,Yoshiaki Kawajiri,1,3,1990,A,94,7.9,35265,,
+Philadelphia,1993,Jonathan Demme,1,1,1990,UA,125,7.7,228721,66.0,77.32
+Schindler's List,1993,Steven Spielberg,1,3,1990,A,195,8.9,1241740,94.0,96.9
+Short Cuts,1993,Robert Altman,1,2,1990,R,188,7.7,42915,79.0,6.11
+Chung Hing sam lam,1994,Kar-Wai Wong,1,3,1990,U,102,8.1,68069,77.0,0.6
+Clerks,1994,Kevin Smith,1,1,1990,U,92,7.7,213825,70.0,3.15
+Léon,1994,Luc Besson,1,3,1990,A,110,8.5,1061124,64.0,19.5
+Trois couleurs: Rouge,1994,Krzysztof Kieslowski,1,3,1990,U,99,8.1,93853,100.0,4.04
+Trois couleurs: Blanc,1994,Krzysztof Kieslowski,1,3,1990,U,92,7.6,66654,88.0,1.46
+Casino,1995,Martin Scorsese,1,2,1990,A,178,8.2,478401,73.0,42.44
+A Little Princess,1995,Alfonso Cuarón,1,3,1990,U,97,7.7,32789,83.0,10.02
+Toy Story,1995,John Lasseter,1,3,1990,U,81,8.3,908843,95.0,191.8
+Twelve Monkeys,1995,Terry Gilliam,1,3,1990,A,129,8.0,587879,74.0,57.14
+Underground,1995,Emir Kusturica,1,3,1990,,170,8.1,56021,,0.17
+Eskiya,1996,Yavuz Turgul,1,3,1990,,128,8.2,66171,,
+Hamlet,1996,Kenneth Branagh,1,1,1990,PG,242,7.7,36443,,4.41
+Lost Highway,1997,David Lynch,1,2,1990,A,134,7.6,133956,52.0,3.8
+Fa yeung nin wah,2000,Kar-Wai Wong,1,2,2000,U,98,8.1,131264,85.0,2.73
+Bacheha-Ye aseman,1997,Majid Majidi,1,3,1990,PG,89,8.3,67884,77.0,0.93
+Dark City,1998,Alex Proyas,1,3,1990,A,100,7.6,190842,66.0,14.38
+Good Will Hunting,1997,Gus Van Sant,1,2,1990,U,126,8.3,883912,70.0,138.43
+Knockin' on Heaven's Door,1997,Thomas Jahn,1,3,1990,,87,7.9,28313,,0.0
+Ta'm e guilass,1997,Abbas Kiarostami,1,1,1990,,95,7.7,25640,80.0,0.31
+The Truman Show,1998,Peter Weir,1,2,1990,U,103,8.1,967766,90.0,125.62
+Being John Malkovich,1999,Spike Jonze,1,3,1990,R,113,7.7,317982,90.0,22.86
+Fear and Loathing in Las Vegas,1998,Terry Gilliam,1,3,1990,R,118,7.6,264585,41.0,10.68
+"Lock, Stock and Two Smoking Barrels",1998,Guy Ritchie,1,3,1990,A,107,8.2,545918,66.0,3.9
+The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,1,3,2000,U,178,8.8,1700348,92.0,315.54
+Fight Club,1999,David Fincher,1,1,1990,A,139,8.8,1901580,66.0,37.03
+Training Day,2001,Antoine Fuqua,1,3,2000,A,122,7.7,401851,69.0,76.63
+Festen,1998,Thomas Vinterberg,1,1,1990,R,105,8.1,80430,82.0,1.65
+The Straight Story,1999,David Lynch,1,2,1990,U,112,8.0,83763,86.0,6.2
+Lagaan: Once Upon a Time in India,2001,Ashutosh Gowariker,1,3,2000,U,224,8.1,107329,84.0,0.07
+Wo hu cang long,2000,Ang Lee,1,3,2000,UA,120,7.8,257158,94.0,128.08
+"O Brother, Where Art Thou?",2000,"Joel Coen, Ethan Coen",2,3,2000,U,107,7.7,294018,69.0,45.51
+Snatch,2000,Guy Ritchie,1,2,2000,UA,104,8.3,797765,55.0,30.33
+Enemy at the Gates,2001,Jean-Jacques Annaud,1,3,2000,A,131,7.6,247897,53.0,51.4
+Vampire Hunter D: Bloodlust,2000,"Jack Fletcher, Yoshiaki Kawajiri",2,3,2000,U,103,7.7,29875,62.0,0.15
+Harry Potter and the Sorcerer's Stone,2001,Chris Columbus,1,3,2000,U,152,7.6,680459,64.0,317.58
+Hera Pheri,2000,Priyadarshan,1,3,2000,U,156,8.2,59646,,
+Sen to Chihiro no kamikakushi,2001,Hayao Miyazaki,1,3,2000,U,125,8.6,675318,96.0,10.06
+Nueve reinas,2000,Fabián Bielinsky,1,3,2000,R,114,7.9,50609,80.0,1.22
+Das Experiment,2001,Oliver Hirschbiegel,1,2,2000,R,120,7.7,91635,60.0,0.14
+Road to Perdition,2002,Sam Mendes,1,3,2000,A,117,7.7,251965,72.0,104.45
+Gongdong gyeongbi guyeok JSA,2000,Park Chan-Wook,1,3,2000,,110,7.8,27482,58.0,
+Finding Nemo,2003,"Andrew Stanton, Lee Unkrich",2,3,2000,U,100,8.1,968463,90.0,380.84
+Adaptation.,2002,Spike Jonze,1,2,2000,R,115,7.7,181829,83.0,22.25
+Vizontele,2001,"Yilmaz Erdogan, Ömer Faruk Sorak",2,2,2000,,110,8.0,34575,,
+Hable con ella,2002,Pedro Almodóvar,1,3,2000,R,112,7.9,106054,86.0,9.28
+In America,2002,Jim Sheridan,1,1,2000,PG,105,7.7,40727,76.0,15.54
+Ying xiong,2002,Yimou Zhang,1,3,2000,UA,120,7.9,175667,85.0,53.71
+Good Bye Lenin!,2003,Wolfgang Becker,1,3,2000,R,121,7.7,140050,68.0,4.06
+25th Hour,2002,Spike Lee,1,1,2000,R,135,7.6,171619,68.0,13.06
+Boksuneun naui geot,2002,Park Chan-Wook,1,3,2000,R,129,7.6,64241,56.0,0.05
+Man on Fire,2004,Tony Scott,1,3,2000,UA,146,7.7,335212,47.0,77.91
+The Notebook,2004,Nick Cassavetes,1,2,2000,A,123,7.8,532193,53.0,81.0
+Lost in Translation,2003,Sofia Coppola,1,2,2000,UA,102,7.7,424717,89.0,44.59
+Ray (I),2004,Taylor Hackford,1,3,2000,A,152,7.7,140770,73.0,75.33
+Walk the Line,2005,James Mangold,1,3,2000,PG,136,7.8,237995,72.0,119.52
+Der Untergang,2004,Oliver Hirschbiegel,1,3,2000,R,156,8.2,337120,82.0,5.51
+"Swades: We, the People",2004,Ashutosh Gowariker,1,1,2000,U,210,8.2,85408,,1.22
+Mar adentro (I),2004,Alejandro Amenábar,1,2,2000,U,126,8.0,78675,74.0,2.09
+Mysterious Skin,2004,Gregg Araki,1,1,2000,PG,105,7.6,66677,73.0,0.7
+Iron Man,2008,Jon Favreau,1,3,2000,UA,126,7.9,963767,79.0,318.41
+Batman Begins,2005,Christopher Nolan,1,2,2000,UA,140,8.2,1337773,70.0,206.85
+Bom yeoreum gaeul gyeoul geurigo bom,2003,Kim Ki-duk,1,2,2000,R,103,8.0,78862,85.0,2.38
+Vozvrashchenie,2003,Andrey Zvyagintsev,1,1,2000,,110,8.0,43436,82.0,0.5
+Kill Bill: Vol. 2,2004,Quentin Tarantino,1,3,2000,A,137,8.0,697846,83.0,66.21
+Before Sunset,2004,Richard Linklater,1,2,2000,A,80,8.1,242903,90.0,5.82
+G.O.R.A.,2004,Ömer Faruk Sorak,1,3,2000,,127,8.0,58713,,
+Saw,2004,James Wan,1,3,2000,A,103,7.6,389078,46.0,56.0
+Tôkyô goddofâzâzu,2003,Satoshi Kon,1,3,2000,UA,90,7.8,33122,73.0,0.13
+C.R.A.Z.Y.,2005,Jean-Marc Vallée,1,2,2000,PG,129,7.9,31708,81.0,
+Le scaphandre et le papillon,2007,Julian Schnabel,1,2,2000,PG,112,8.0,104374,92.0,5.99
+The World's Fastest Indian,2005,Roger Donaldson,1,3,2000,U,127,7.8,52712,68.0,5.13
+Pride & Prejudice,2005,Joe Wright,1,2,2000,PG,129,7.8,267435,82.0,38.41
+Control,2007,Anton Corbijn,1,3,2000,R,122,7.7,62454,78.0,0.87
+V for Vendetta,2005,James McTeigue,1,3,2000,UA,132,8.1,1052072,62.0,70.51
+Zodiac,2007,David Fincher,1,3,2000,UA,157,7.7,483332,78.0,33.08
+Huo Yuan Jia,2006,Ronny Yu,1,3,2000,PG,104,7.6,73581,70.0,24.63
+Inside Man,2006,Spike Lee,1,3,2000,PG,129,7.6,348692,76.0,88.51
+Lage Raho Munna Bhai,2006,Rajkumar Hirani,1,3,2000,U,144,8.0,44130,,2.22
+The Fall,2006,Tarsem Singh,1,3,2000,R,117,7.9,108484,64.0,2.28
+Stardust,2007,Matthew Vaughn,1,3,2000,U,127,7.6,259417,66.0,38.63
+Letters from Iwo Jima,2006,Clint Eastwood,1,3,2000,UA,141,7.9,155883,89.0,13.76
+Avatar,2009,James Cameron,1,3,2000,UA,162,7.8,1139805,83.0,760.51
+The Man from Earth,2007,Richard Schenkman,1,3,2000,,87,7.9,177502,,
+American Gangster,2007,Ridley Scott,1,3,2000,A,157,7.8,400146,76.0,130.16
+Atonement,2007,Joe Wright,1,3,2000,PG,123,7.8,257907,85.0,50.93
+Toki o kakeru shôjo,2006,Mamoru Hosoda,1,3,2000,U,98,7.7,61911,,
+Papurika,2006,Satoshi Kon,1,3,2000,U,90,7.7,74063,81.0,0.88
+Auf der anderen Seite,2007,Fatih Akin,1,1,2000,,122,7.8,31152,85.0,0.74
+Once (I),2007,John Carney,1,3,2000,R,86,7.8,112069,88.0,9.44
+Harry Potter and the Deathly Hallows: Part 1,2010,David Yates,1,3,2010,A,146,7.7,492596,65.0,295.98
+Taare Zameen Par,2007,"Aamir Khan, Amole Gupte",2,2,2000,U,165,8.4,176014,,1.22
+The Wolf of Wall Street,2013,Martin Scorsese,1,3,2010,A,180,8.2,1231966,75.0,116.9
+Argo,2012,Ben Affleck,1,3,2010,A,120,7.7,583248,86.0,136.03
+Article 15,2019,Anubhav Sinha,1,3,2010,UA,130,8.2,25798,,
+My Name Is Khan,2010,Karan Johar,1,1,2010,UA,165,8.0,101089,50.0,4.02
+Chugyeokja,2008,Na Hong-jin,1,3,2000,,125,7.8,60480,64.0,
+Madeo,2009,Bong Joon Ho,1,3,2000,R,129,7.8,55927,79.0,0.55
+Un prophète,2009,Jacques Audiard,1,2,2000,A,155,7.9,95056,90.0,2.08
+Zack Snyder's Justice League,2021,Zack Snyder,1,3,2020,PG,242,8.1,304244,54.0,
+A Wednesday,2008,Neeraj Pandey,1,3,2000,UA,104,8.1,75172,,
+The Irishman,2019,Martin Scorsese,1,3,2010,PG,209,7.8,341121,94.0,7.0
+Hævnen,2010,Susanne Bier,1,2,2010,R,118,7.6,38929,65.0,1.01
+Inception,2010,Christopher Nolan,1,3,2010,UA,148,8.8,2125726,74.0,292.58
+Prisoners,2013,Denis Villeneuve,1,3,2010,A,153,8.1,621376,70.0,61.0
+Star Trek Into Darkness,2013,J.J. Abrams,1,3,2010,UA,132,7.7,467566,72.0,228.78
+The Help,2011,Tate Taylor,1,1,2010,UA,146,8.0,435129,62.0,169.71
+A Star Is Born,2018,Bradley Cooper,1,3,2010,PG,136,7.6,347981,88.0,215.29
+The Big Short,2015,Adam McKay,1,3,2010,A,130,7.8,378545,81.0,70.26
+Detachment,2011,Tony Kaye,1,1,2010,,98,7.7,79122,52.0,0.07
+Wreck-It Ralph,2012,Rich Moore,1,3,2010,U,101,7.7,388502,72.0,189.42
+Her,2013,Spike Jonze,1,3,2010,A,126,8.0,556396,90.0,25.57
+Nebraska,2013,Alexander Payne,1,3,2010,UA,115,7.7,114018,87.0,17.65
+Captain America: The Winter Soldier,2014,"Anthony Russo, Joe Russo",2,3,2010,UA,136,7.7,759414,70.0,259.77
+Song of the Sea,2014,Tomm Moore,1,3,2010,PG,93,8.1,53875,85.0,0.86
+Spotlight (I),2015,Tom McCarthy,1,3,2010,A,129,8.1,432971,93.0,45.06
+Serbuan maut,2011,Gareth Evans,1,2,2010,A,101,7.6,194081,73.0,4.11
+The Broken Circle Breakdown,2012,Felix van Groeningen,1,3,2010,,111,7.7,39956,70.0,0.18
+12 Years a Slave,2013,Steve McQueen,1,3,2010,A,134,8.1,655072,96.0,56.67
+Barfi!,2012,Anurag Basu,1,3,2010,U,151,8.1,77447,,2.8
+English Vinglish,2012,Gauri Shinde,1,3,2010,U,134,7.8,34318,,1.67
+Kai po che!,2013,Abhishek Kapoor,1,2,2010,U,130,7.8,34109,40.0,1.12
+Gone Girl,2014,David Fincher,1,3,2010,A,149,8.1,887657,79.0,167.77
+OMG: Oh My God!,2012,Umesh Shukla,1,3,2010,U,125,8.1,53521,,0.92
+Gully Boy,2019,Zoya Akhtar,1,3,2010,UA,154,8.0,33959,65.0,5.57
+Birdman or (The Unexpected Virtue of Ignorance),2014,Alejandro G. Iñárritu,1,2,2010,A,119,7.7,592280,87.0,42.34
+Whiplash,2014,Damien Chazelle,1,2,2010,A,106,8.5,744210,88.0,13.09
+The Fault in Our Stars,2014,Josh Boone,1,2,2010,UA,126,7.7,350993,69.0,124.87
+Kingsman: The Secret Service,2014,Matthew Vaughn,1,3,2010,A,129,7.7,604328,60.0,128.26
+Soul,2020,"Pete Docter, Kemp Powers",2,3,2020,U,100,8.1,253023,83.0,
+Mandariinid,2013,Zaza Urushadze,1,2,2010,,87,8.2,42786,73.0,0.14
+Loving Vincent,2017,"Dorota Kobiela, Hugh Welchman",2,3,2010,UA,94,7.8,52685,62.0,6.74
+Logan,2017,James Mangold,1,3,2010,A,137,8.1,670379,77.0,226.28
+Queen,2013,Vikas Bahl,1,3,2010,UA,146,8.2,61899,,1.43
+Drishyam,2013,Jeethu Joseph,1,3,2010,U,160,8.3,36431,,
+Sing Street,2016,John Carney,1,3,2010,PG,106,7.9,87326,79.0,3.24
+Only the Brave,2017,Joseph Kosinski,1,3,2010,UA,134,7.6,61039,72.0,18.34
+Baby Driver,2017,Edgar Wright,1,3,2010,UA,113,7.6,461323,86.0,107.83
+Guardians of the Galaxy Vol. 2,2017,James Gunn,1,3,2010,UA,136,7.6,591960,67.0,389.81
+En man som heter Ove,2015,Hannes Holm,1,3,2010,PG,116,7.7,49482,70.0,3.36
+Avengers: Endgame,2019,"Anthony Russo, Joe Russo",2,3,2010,UA,181,8.4,889858,78.0,858.37
+M.S. Dhoni: The Untold Story,2016,Neeraj Pandey,1,3,2010,U,184,7.9,43866,,1.78
+The Peanut Butter Falcon,2019,"Tyler Nilson, Michael Schwartz",2,3,2010,PG,97,7.6,72553,70.0,13.12
+Airlift,2016,Raja Menon,1,2,2010,UA,130,8.0,53948,,
+Drishyam,2015,Nishikant Kamat,1,3,2010,UA,163,8.2,74430,,0.74
+Udta Punjab,2016,Abhishek Chaubey,1,3,2010,A,148,7.8,28049,,
+Gifted,2017,Marc Webb,1,1,2010,PG,101,7.6,104471,60.0,24.8
+"Three Billboards Outside Ebbing, Missouri",2017,Martin McDonagh,1,3,2010,A,115,8.1,453139,88.0,54.51
+"I, Daniel Blake",2016,Ken Loach,1,1,2010,UA,100,7.9,55858,78.0,0.26
+Forushande,2016,Asghar Farhadi,1,1,2010,UA,124,7.8,53368,85.0,2.4
+Koe no katachi,2016,Naoko Yamada,1,3,2010,PG,130,8.2,56400,78.0,
+Vikram Vedha,2017,"Gayatri, Pushkar",2,3,2010,UA,147,8.4,31455,,
+Roma,2018,Alfonso Cuarón,1,1,2010,PG,135,7.7,145180,96.0,
+Marriage Story,2019,Noah Baumbach,1,3,2010,U,137,7.9,262031,94.0,2.0
+The Mitchells vs the Machines,2021,"Michael Rianda, Jeff Rowe",2,3,2020,PG,113,7.8,60213,80.0,
+Tumbbad,2018,"Rahi Anil Barve, Anand Gandhi, Adesh Prasad",3,3,2010,A,104,8.3,33171,,
+A Quiet Place Part II,2020,John Krasinski,1,3,2020,A,97,7.8,39449,71.0,
+The Gentlemen,2019,Guy Ritchie,1,3,2010,A,113,7.8,268281,51.0,
+1917,2019,Sam Mendes,1,3,2010,R,119,8.3,467512,78.0,159.23
+Dark Waters,2019,Todd Haynes,1,3,2010,PG,126,7.6,68868,73.0,
